@@ -1,0 +1,51 @@
+// -----------------------------------------------------------------------------
+// This file contains styles for lists - over and above Bitters
+// -----------------------------------------------------------------------------
+
+ol.default {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.default {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: disc;
+  list-style-position: outside;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+ol {
+  list-style-type: decimal;
+  list-style-position: outside;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+.list--horizontal {
+  list-style-type: none;
+  margin: 0;
+  //display: inline;
+
+  li {
+    display: inline;
+    padding-right: 1em;
+  }
+}
+.list--bulleted {
+  list-style-type: none;
+  list-style-position: inside;
+  margin-left: 15px;
+  margin-bottom: 10px;
+
+  li::before {
+    content: "•";
+    color: $action-color;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+}
