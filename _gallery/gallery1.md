@@ -1,33 +1,84 @@
 ---
-title: Gallery 1
+title: "Artist books"
 description_markdown: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime voluptate,
-  dicta ex incidunt harum id vitae itaque alias voluptates pariatur! Aliquid
-  expedita rerum autem vel est pariatur, quibusdam consectetur, aliquam!
+  "As part of my initial research for the New College tapestries I began experimenting with making a series of small books.  My ideas for the project were related to Johannes Itten's twelve tone colour system and I have translated these into a series of twenty four hour 'clock'  books, starting and ending with midnight and centred on a sun motif in the middle.  
+
+  The classic book  form has a time based narrative; a concertina book on the other hand can be read all at once  offering a more visual experience.  Each of the concertina or leporello books can be opened out into a continuous sheet 3.5 metres long or closed down and arranged in many different ways to give a different visual image each time it is viewed. The simpler book form offers a separate double page spread for each time period chosen.  
+
+  I like the way you can thus change each miniature "artwork" to suit the mood, rather like propping open a book of poems and concentrating on one piece for a while, rereading it over and over."  
+
 homepage_description_markdown: 
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/test/
+permalink: /gallery/artist-books/
 archive: false
 display_title: true
-main_image_path: /assets/images/e-la-nave-va_21390829511_o.jpg
+main_image_path: /assets/images/524da390e8136.jpg
 thumb_crop: false
 images:
-  - image_path: /assets/images/advert-customers.jpg
-    image_title: Graveyard
-    image_description_markdown: These customers didn't choose Eye Division
-  - image_path: /assets/images/clevedon-pools.jpg
-    image_title: Clevedon Pools
-    image_description_markdown: Experience an ocean of bliss
-  - image_path: /assets/images/advert-impregnable.jpg
-    image_title: Fortress
-    image_description_markdown: Your site is our impregnable fortress
-  - image_path: '/assets/images/Keen of Hamar, Unst.jpg'
-    image_title: Test resized image
-    image_description_markdown: Test resized
-  - image_path: '/assets/images/Keen of Hamar, Unst.jpg'
-    image_title: Resized to 600
-    image_description_markdown: Resized to 600 square max
+  - image_path: "/assets/images/524da390e8136.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/524da44f6e6c5.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/524da4d517f81.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/524da527ce6d9.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/524da58149452.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/524da5bf7bb3d.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb00d7c80ec.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb01181b306.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb0142d868c.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb016ba6cf0.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb01a68b99f.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb0259676d3.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccafe7d9a5c6.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccafecc01069.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccaff0448e3c.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccaffc0cedc2.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccafff5c1937.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb0025199ea.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb02ca7b0b8.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb03003b4c9.jpg"
+    image_title: ""
+    image_description_markdown: ""
+  - image_path: "/assets/images/4ccb033265c54.jpg"
+    image_title: ""
+    image_description_markdown: ""
 _options:
   image_path:
     width: 1200

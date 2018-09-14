@@ -7,8 +7,8 @@ plugins:
    - jekyll-sitemap
 
 # Site settings
-title: Jeni Ross
-subtitle:
+title: "Jeni Ross"
+subtitle: "Tapestry Commissions, tufted rugs and wall hangings"
 name: Jeni Ross
 description: Jeni Ross art gallery
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -116,13 +116,13 @@ _options:
 # disqus_shortname: alun-ward
 
 # Google analytics
-ga_tracking_id: "UA-6193112-1"
+ga_tracking_id: "UA-16735011-6"
 
 # Google Recaptcha used for contact form
-# recaptcha_site_key: "6LcNYBQUAAAAAALGOjCFo1CKxb65aFTFelMJo1YF"
+recaptcha_site_key: "6LdzQ3AUAAAAAP1g0zmsvgpRL0aK3tLFTwZu5ujqF"
 
 # Google Site verification if required
-google_site_verification: "9jp8zWdwYtNXq7v_F2cdF0JiMl9zftEF0hKTPA2Z9w0"
+# google_site_verification:
 
 # Social icons and sharing options
 #
