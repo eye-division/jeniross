@@ -119,7 +119,7 @@ _options:
 ga_tracking_id: "UA-16735011-6"
 
 # Google Recaptcha used for contact form
-recaptcha_site_key: "6LdzQ3AUAAAAAP1g0zmsvgpRL0aK3tLFTwZu5ujqF"
+recaptcha_site_key: "6LdzQ3AUAAAAAP1g0zmsvgpRL0aK3tLFTwZu5ujq"
 
 # Google Site verification if required
 # google_site_verification:
