@@ -31,7 +31,7 @@ _comments:
 <div class="gallery">
 
 <!-- order galleries by date -->
-{% assign galleries = site.gallery | sort: '_gallery_date' | reverse %}
+{% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
 
 {% for gallery in galleries %}
 

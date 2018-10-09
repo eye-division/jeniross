@@ -2,7 +2,7 @@
 title: "Gallery 2: on paper"
 description_markdown: 
 homepage_description_markdown: 
-_gallery_date:
+gallery_date:
 frontpage: true
 permalink: /gallery/gallery2/
 display_title: true

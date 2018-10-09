@@ -9,7 +9,7 @@ description_markdown: >-
 
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/artist-books/
 archive: false
 display_title: true
