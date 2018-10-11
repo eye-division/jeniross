@@ -4,26 +4,23 @@
 
 .navigation {
     margin: 0;
-    @include grid-container;
     padding: 1em 1em 0;
     background-color: $white;
     z-index: 99; // to cover over flexslider
 }
 /// Nav menu
 .navigation--wrapper {
-    //@include grid-container;
-    @include clearfix;
     position: relative;
     background-color: $white;
 }
 
 /// small view
-.navigation-menu-button {
+.navigation--menu-button {
     display: block;
-    text-align: right;
+    text-align: center;
     margin: 0;
     font-size: 1.5em;
-    padding-top: 0.5em;
+    //padding-top: 0.5em;
     color: $navigation-color;
     text-decoration: none;
     .icon-menu {
@@ -51,10 +48,9 @@
 }
 
 nav {
-    float: right;
     @include grid-media ($small) {
-        float: none;
-        line-height: 1.5em;
+        //float: none;
+        //line-height: 1.5em;
     }
 }
 
@@ -66,21 +62,24 @@ nav {
     overflow: visible;
     padding: 0;
     width: 100%;
-    @include grid-media ($small) {
-        display: block;
-        margin: 0;
-        padding: 0;
-    }
     &.show {
-        display: block;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
     }
+    @include grid-media ($small) {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        justify-content: center; // space-around;
+    }
+
 }
 
 /// Nav items
 
 .nav--link {
     display: block;
-    text-align: right;
     width: 100%;
     padding: 0.25em 0;
     @include grid-media ($small) {
@@ -90,6 +89,7 @@ nav {
         width: auto;
     }
     a {
+        text-decoration: none;
         color: $navigation-color;
         display: inline-block;
         @include grid-media ($small) {
@@ -106,14 +106,38 @@ nav {
             padding-right: 1em;
         }
     }
+    &.active a {
+        a {
+            color: $action-hover-color
+        }
+    }
 }
-.nav--link.active,
+
+.navigation--social-menu {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: center; // space-around;
+}
+.nav--social-media-link {
+    flex: 1 1 0;
+    @include grid-media ($small) {
+        flex: 0 1 auto;
+    }
+}
+
 li.active {
     a {
-        color: $black;
+        color: $action-hover-color
     }
 }
 
 .show--menu {
   display: block;
 }
+
+/// layout things
+
+
+
+/// grid css navigation--menu ?? not required really

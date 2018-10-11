@@ -5,6 +5,8 @@ plugins:
  # - autoprefixer-rails
    - jekyll-seo-tag
    - jekyll-sitemap
+   - jekyll/tagging
+   - jekyll-tagging-related_posts
 
 # Site settings
 title: "Jeni Ross"
@@ -17,13 +19,14 @@ description: Art gallery
 baseurl: ""
 # the base hostname & protocol for your site
 url: "https://www.jeniross.co.uk"
-
 logo: "/siteicon.png"
 email: jeni.ross@virgin.net
 
 # some Eye Gallery settings
-show_carousel: false
-thumb_crop: false
+default_post_image: "/assets/images/road_closed.jpg"
+default_gallery_image: "/assets/images/road_closed.jpg"
+show_logo: false
+show_social_top: true
 
 # Build settings
 markdown: kramdown

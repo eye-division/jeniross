@@ -1,13 +1,20 @@
 ---
-title: "Gallery 2: on paper"
-description_markdown: 
-homepage_description_markdown: 
+title: "On paper"
+description_markdown: >-
+  Jeni is fascinated by pure colour and how colours interact with each other.  She explores this in her art works on paper which are developed as part of the creative process. Sometimes these are translated into a textile, others stand as pieces in their own right.  
+
+  Jeni uses cut and torn paper collages as a starting point for many of her designs which are then painted, but she is perhaps best known for her cut-outs. These are made by carving shapes into hand painted sheets of paper and working with both positive and negative images building up a low relief effect.
+homepage_description_markdown: >-
+  Jeni is fascinated by pure colour and how colours interact with each other.  She explores this in her art works on paper which are developed as part of the creative process. Sometimes these are translated into a textile, others stand as pieces in their own right.  
+
 gallery_date:
 frontpage: true
-permalink: /gallery/gallery2/
+permalink: /gallery/on-paper/
 display_title: true
+display_image: true
 archive: false
 main_image_path: /assets/images/597b3e0734152.jpg
+main_image_caption: 
 thumb_crop: true
 images:
   - image_path: "/assets/images/597b3e0734152.jpg"
@@ -110,9 +117,11 @@ _comments:
   title: Gallery title
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
+  display_image: Show the featured image at the top of the gallery
+  display_title: Show the title at the top of the page
   images: Add and edit your gallery images here
   image_description_markdown: Might only be shown in the close up of an image
-  archive: Not used yet!
+  thumb_crop: Crop thumbnail images to a consistent size
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---

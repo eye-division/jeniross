@@ -6,8 +6,10 @@ gallery_date:
 frontpage: true
 permalink: /gallery/cropped/
 display_title: true
+display_image: true
 archive: false
 main_image_path: /assets/images/524da390e8136.jpg
+main_image_caption: 
 thumb_crop: true
 images:
   - image_path: "/assets/images/524da390e8136.jpg"
@@ -88,9 +90,11 @@ _comments:
   title: Gallery title
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
+  display_image: Show the featured image at the top of the gallery
+  display_title: Show the title at the top of the page
   images: Add and edit your gallery images here
   image_description_markdown: Might only be shown in the close up of an image
-  archive: Not used yet!
+  thumb_crop: Crop thumbnail images to a consistent size
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
