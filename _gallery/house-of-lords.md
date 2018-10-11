@@ -1,11 +1,21 @@
 ---
-title: "House of Lords tapestry"
+title: House of Lords tapestry
 description_markdown: >-
-  The British countryside has been almost entirely changed by man and yet we are still deeply influenced by it. The relationships of a figure within a space was important to me for this commision and I wanted to convey the feeling of the figure as both dominating but also part of the landscape. Starting points for the design were paintings such as 'Mr and Mrs Andrews' by Gainsborough and the drawings by Samuel Palmer. I often use the idea of night and day existing at the same time in my work and I felt this would have particular relevance to the workings of parliament.  
+  The British countryside has been almost entirely changed by man and yet we are
+  still deeply influenced by it. The relationships of a figure within a space
+  was important to me for this commission and I wanted to convey the feeling of
+  the figure as both dominating but also part of the landscape. Starting points
+  for the design were paintings such as 'Mr and Mrs Andrews' by Gainsborough and
+  the drawings by Samuel Palmer. I often use the idea of night and day existing
+  at the same time in my work and I felt this would have particular relevance to
+  the workings of parliament.
 
 
-  A major feature in many antique tapestries is a curtain. This plays with the idea of a tapestry¹s function within a room, its physical nature as a textile and also with the notion of something revealed. I felt this was also relevant and have designed the piece with this in mind.
-homepage_description_markdown: 
+  A major feature in many antique tapestries is a curtain. This plays with the
+  idea of a tapestry&sup1;s function within a room, its physical nature as a
+  textile and also with the notion of something revealed. I felt this was also
+  relevant and have designed the piece with this in mind.
+homepage_description_markdown:
 frontpage: true
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/house-of-lords-tapestry/
@@ -16,31 +26,35 @@ main_image_path: /assets/images/4ae6dcab9fb77.jpg
 main_image_caption:
 thumb_crop: false
 images:
-  - image_path: "/assets/images/4ae6dcab9fb77.jpg"
-    image_title: "Figure in a Landscape"
-    image_description_markdown: "1400 x 2200mm
-    Woven Tapestry commissioned for House of Lords Offices by the Parliamentary Works Directorate"
-  - image_path: "/assets/images/4ae6dcab9fb77.jpg"
-    image_title: "Detail of Figure in a Landscape"
-    image_description_markdown: "1400 x 2200 mm
+  - image_path: /assets/images/4ae6dcab9fb77.jpg
+    image_title: Figure in a Landscape
+    image_description_markdown: >-
+      1400 x 2200mm Woven Tapestry commissioned for House of Lords Offices by
+      the Parliamentary Works Directorate
+  - image_path: /assets/images/4ae6dcab9fb77.jpg
+    image_title: Detail of Figure in a Landscape
+    image_description_markdown: >-
+      1400 x 2200 mm
 
-    Woven Tapestry
+      Woven Tapestry
 
-    Tapestry for the House of Lords offices. No 1 Millbank. Tapestry and paintings commissioned by the Parliamentary Works Directorate for the Government Art Collection."
-  - image_path: "/assets/images/4af0a5ed93fa1.jpg"
-    image_title: "Figure in a Landscape - siting"
-    image_description_markdown: "Woven tapestry"
+      Tapestry for the House of Lords offices. No 1 Millbank. Tapestry and
+      paintings commissioned by the Parliamentary Works Directorate for the
+      Government Art Collection.
+  - image_path: /assets/images/4af0a5ed93fa1.jpg
+    image_title: Figure in a Landscape - siting
+    image_description_markdown: Woven tapestry
 _options:
   image_path:
-    width: 1200
-    height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    width: '1200'
+    height: '1200'
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
-    width: 1200
-    height: 800
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    width: '1200'
+    height: '800'
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
   title: Gallery title
   permalink: Be careful editing this
@@ -53,3 +67,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
