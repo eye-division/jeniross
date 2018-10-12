@@ -1,8 +1,11 @@
 ---
-title: Street Art project
-description_markdown:
+title: '"Look/See" Street Art project'
+description_markdown: >-
+  A number of shops in Farnham lent their windows for a month to showcase the
+  work of artists working in different media. I chose Leighton's Optician for my
+  series of 28 collage faces titled "Look/See".
 homepage_description_markdown:
-frontpage: true
+frontpage: false
 gallery_date:
 permalink:
 archive: false
@@ -17,13 +20,13 @@ images:
     image_description_markdown:
 _options:
   image_path:
-    width: 1200
-    height: 1200
+    width: '1200'
+    height: '1200'
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    width: 1200
-    height: 800
+    width: '1200'
+    height: '800'
     resize_style: contain
     mime_type: image/jpeg
 _comments:
