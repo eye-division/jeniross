@@ -24,23 +24,13 @@ display_title: true
 display_image: true
 main_image_path: /assets/images/4ae6dcab9fb77.jpg
 main_image_caption:
-thumb_crop: false
+thumb_crop: true
 images:
   - image_path: /assets/images/4ae6dcab9fb77.jpg
     image_title: Figure in a Landscape
     image_description_markdown: >-
       1400 x 2200mm Woven Tapestry commissioned for House of Lords Offices by
       the Parliamentary Works Directorate
-  - image_path: /assets/images/4ae6dcab9fb77.jpg
-    image_title: Detail of Figure in a Landscape
-    image_description_markdown: >-
-      1400 x 2200 mm
-
-      Woven Tapestry
-
-      Tapestry for the House of Lords offices. No 1 Millbank. Tapestry and
-      paintings commissioned by the Parliamentary Works Directorate for the
-      Government Art Collection.
   - image_path: /assets/images/4af0a5ed93fa1.jpg
     image_title: Figure in a Landscape - siting
     image_description_markdown: Woven tapestry
