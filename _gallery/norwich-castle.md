@@ -40,8 +40,8 @@ images:
       2200 x 2000 mm Woven tapestry
 
 
-      The four figures depict Architecture,Literature, Nature and Conflict and
-      represent living history.
+      The four held by the figures depict Architecture, Literature, Conflict and
+      Landscape and represent living history.
   - image_path: /assets/images/4af061f8c5c06.jpg
     image_title: 'Norwich Castle Keep: Magic Carpet'
     image_description_markdown: >-
