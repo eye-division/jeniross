@@ -32,7 +32,7 @@ display_title: true
 display_image: true
 main_image_path: /assets/images/4af0a3c69ab44.jpg
 main_image_caption:
-thumb_crop: false
+thumb_crop: true
 images:
   - image_path: /assets/images/4ae869b72886a.jpg
     image_title: Norwich Castle Museum Tapestry
