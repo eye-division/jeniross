@@ -22,7 +22,7 @@ images:
       1400 x 1800m Tufted Textile Wall Hanging. Tufted Textile Wall Hanging.
       Commission for Parklands House. Royal Oldham Hospital
   - image_path:
-    image_title: Blue Figure with Birds - site
+    image_title:
     image_description_markdown:
   - image_path: /assets/images/4af038be04942.jpg
     image_title: Lifelines
