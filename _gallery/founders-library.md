@@ -21,6 +21,9 @@ images:
       6 pieces take inspiration from the work of Bauhaus artist Johannes Itten,
       using 12 shades of blue to represent music, the passing of time and the
       solar system.
+  - image_path:
+    image_title:
+    image_description_markdown:
   - image_path: /assets/images/5894a43c06a02.jpg
     image_title: 'The Founder''s Library, New College, Oxford by Jeni Ross'
     image_description_markdown: >-
@@ -28,9 +31,6 @@ images:
       pieces take inspiration from the work of Bauhaus artist Johannes Itten,
       using 12 shades of blue to represent music, the passing of time and the
       solar system.
-  - image_path:
-    image_title:
-    image_description_markdown:
   - image_path: /assets/images/5894a53f3cf67.jpg
     image_title: 'The Founder''s Library, New College, Oxford by Jeni Ross'
     image_description_markdown: >-
@@ -38,6 +38,9 @@ images:
       pieces take inspiration from the work of Bauhaus artist Johannes Itten,
       using 12 shades of blue to represent music, the passing of time and the
       solar system.
+  - image_path:
+    image_title:
+    image_description_markdown:
   - image_path: /assets/images/5894b2337c1c5.jpg
     image_title: New College Tapestry 4
     image_description_markdown: >-
@@ -45,9 +48,6 @@ images:
       6 pieces take inspiration from the work of Bauhaus artist Johannes Itten,
       using 12 shades of blue to represent music, the passing of time and the
       solar system.
-  - image_path:
-    image_title:
-    image_description_markdown:
 _options:
   image_path:
     width: '1200'
