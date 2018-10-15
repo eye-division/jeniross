@@ -55,7 +55,7 @@ images:
       Hand Gun-Tufted Wool Pile. Detail: 'Faces' for Belfast Childrens'
       Treatment Centres.
   - image_path:
-    image_title: 'Belfast, Faces No. 3'
+    image_title:
     image_description_markdown:
 _options:
   image_path:
