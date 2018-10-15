@@ -29,8 +29,8 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/norwich-castle/
 archive: false
 display_title: true
-display_image: true
-main_image_path: /assets/images/4af0a3c69ab44.jpg
+display_image: false
+main_image_path:
 main_image_caption:
 thumb_crop: true
 images:
