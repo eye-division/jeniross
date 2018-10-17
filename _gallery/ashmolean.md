@@ -17,7 +17,7 @@ display_title: true
 display_image: true
 main_image_path: /assets/images/505a001e3c84d.jpg
 main_image_caption:
-thumb_crop: false
+thumb_crop: true
 images:
   - image_path: /assets/images/505a001e3c84d.jpg
     image_title: Tapestries at the Ashmolean Museum

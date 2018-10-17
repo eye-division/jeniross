@@ -12,7 +12,7 @@ display_title: true
 display_image: true
 main_image_path:
 main_image_caption:
-thumb_crop: false
+thumb_crop: true
 images:
   - image_path: /assets/images/5894a2cf79997.jpg
     image_title: The Founder's Library Tapestries by Jeni Ross

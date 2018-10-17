@@ -146,36 +146,36 @@ social:
 
   - name: Facebook
     icon: icon-facebook_sign
-    username: 'eyedivision'
-    url: https://www.facebook.com/eyedivision
+    username:
+    url:
     desc: Like us on Facebook
     share: true
 
   - name: Instagram
     icon: icon-instagram
-    username: '@eyedivision'
-    url: https://instagram.com/eyedivision
-    desc: Follow us on Instagram
+    username: '@iamnotapixel'
+    url: https://instagram.com/iamnotapixel
+    desc: Follow iamnotapixel on Instagram
     share: false
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: '@EyeDivision'
-    url: https://twitter.com/EyeDivision
+    username:
+    url:
     desc: Follow us on Twitter
     share: true
 
   - name: Pinterest
     icon: icon-pinterest
-    username: 'eyediv'
-    url: https://www.pinterest.co.uk/eyediv/
+    username:
+    url:
     desc: Follow us on Pinterest
     share: true
 
   - name: linkedin
     icon: icon-linkedin_sign
-    username: 'eye-division-ltd'
-    url: https://www.linkedin.com/company/eye-division-ltd/
+    username:
+    url:
     desc: Connect with us on LinkedIn
     share: true
 

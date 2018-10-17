@@ -19,7 +19,7 @@ display_title: true
 display_image: true
 main_image_path: "/assets/images/4ae9d2cfaa509.jpg"
 main_image_caption: "'Macro-Micro' Design for carpet"
-thumb_crop: false
+thumb_crop: true
 images:
   - image_path: "/assets/images/4ae9d2cfaa509.jpg"
     image_title: "'Macro-Micro' Design for carpet"
