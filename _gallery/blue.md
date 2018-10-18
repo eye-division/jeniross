@@ -45,20 +45,32 @@ main_image_path: /assets/images/4ae99d6940235.jpg
 main_image_caption:
 thumb_crop: true
 images:
-  - image_path: /assets/images/4aeb11d0bb9ce.jpg
-    image_title: Blue
+  - image_path: /uploads/img-0494.jpg
+    image_title: Blue 1
     image_description_markdown: >-
       Gouache on Paper, mixed media Installation at the New Ashgate Gallery,
-      Farnham, Surrey.
+      Farnham, Surrey. 2006
+
+
+      4.5 metres wide.
   - image_path: /assets/images/4aeb148787eeb.jpg
-    image_title: Blue detail
-    image_description_markdown: 'Each 360 x 300mm 2006 Gouache on Paper, mixed media'
+    image_title: Blue 2
+    image_description_markdown: |-
+      Each 360 x 300mm&nbsp; Gouache on Paper, mixed media
+
+      Installation at the New Ashgate Gallery, Farnham, Surrey.
   - image_path: /assets/images/4aeb143aacf71.jpg
-    image_title: Blue - detail 2
-    image_description_markdown: 'Each 360 x 300mm&nbsp; Gouache on Paper, mixed media'
-  - image_path:
-    image_title:
-    image_description_markdown:
+    image_title: Blue - 3
+    image_description_markdown: |-
+      Each 360 x 300mm&nbsp; Gouache on Paper, mixed media
+
+      Installation at the New Ashgate Gallery, Farnham, Surrey.
+  - image_path: /uploads/img-0930.jpg
+    image_title: Blue 4
+    image_description_markdown: |-
+      Each 360 x 300mm&nbsp; Gouache on Paper, mixed media
+
+      Installation at the New Ashgate Gallery, Farnham, Surrey.
   - image_path:
     image_title:
     image_description_markdown:
