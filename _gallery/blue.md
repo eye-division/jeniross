@@ -55,13 +55,13 @@ images:
     image_description_markdown: 'Each 360 x 300mm 2006 Gouache on Paper, mixed media'
   - image_path: /assets/images/4aeb143aacf71.jpg
     image_title: Blue - detail 2
-    image_description_markdown: '360 x 300 2006 Gouache on Paper, mixed media'
+    image_description_markdown: 'Each 360 x 300mm&nbsp; Gouache on Paper, mixed media'
   - image_path:
     image_title:
     image_description_markdown:
   - image_path:
-    image_title: Blue - detail 3
-    image_description_markdown: '360mm x 4000mm 2006 Gouache on Paper, mixed media'
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: '1200'
