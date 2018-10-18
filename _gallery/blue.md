@@ -35,7 +35,7 @@ description_markdown: >-
   sunset and are designed to be visible as one passes through the two archways
   and from the first floor windows.
 homepage_description_markdown: '"BLUE" Commission for New Ashgate Gallery.'
-frontpage: true
+frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/blue/
 archive: false

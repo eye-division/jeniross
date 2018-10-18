@@ -10,7 +10,7 @@ description_markdown: >-
   Please do contact Jeni to discuss your needs with no obligation. 
 homepage_description_markdown: >-
   One-off carpets and limited edition rugs form an important part of the commissioned work Jeni is able to undertake.
-frontpage: true
+frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/rugs-and-carpets/
 archive: false

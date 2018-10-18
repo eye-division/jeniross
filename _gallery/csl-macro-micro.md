@@ -11,7 +11,7 @@ description_markdown: >-
   The carpet represents a pond teaming with microscopic forms. 
 homepage_description_markdown: >-
   2 Panel Tapestry and carpet for the Central Science Laboratory, Ryedale, York.  
-frontpage: true
+frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/csl-macro-micro/
 archive: false

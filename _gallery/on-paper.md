@@ -15,7 +15,7 @@ homepage_description_markdown: >-
   creative process. Sometimes these are translated into a textile, others stand
   as pieces in their own right.
 gallery_date:
-frontpage: true
+frontpage: false
 permalink: /gallery/on-paper/
 display_title: true
 display_image: true

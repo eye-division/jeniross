@@ -16,7 +16,7 @@ description_markdown: >-
   textile and also with the notion of something revealed. I felt this was also
   relevant and have designed the piece with this in mind.
 homepage_description_markdown:
-frontpage: true
+frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/house-of-lords-tapestry/
 archive: false

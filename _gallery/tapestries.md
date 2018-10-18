@@ -3,12 +3,12 @@ title: "Tapestries"
 description_markdown:  >-
    Jeni is primarily concerned with colour and movement and her designs involve layers, contrasts and cycles; earth and air, night and day, negative and positive. These are interpreted using qualities of theatre; colour and illumination, the interplay of planes and textures.
 homepage_description_markdown: >-
-   Jeni is primarily concerned with colour and movement and her designs involve layers, contrasts and cycles; earth and air, night and day, negative and positive. These are interpreted using qualities of theatre; colour and illumination, the interplay of planes and textures.
+   
 gallery_date:
 frontpage: true
 permalink: /gallery/tapestries/
 display_title: true
-display_image: true
+display_image: false
 archive: false
 main_image_path: /assets/images/5978bbcd92847.jpg
 main_image_caption: 

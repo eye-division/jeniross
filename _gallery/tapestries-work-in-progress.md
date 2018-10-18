@@ -4,7 +4,7 @@ description_markdown: >-
   This page shows the development of the designs and the processes involved in the making of the tapestries. The final designs were approved by the College Trustees in 2008 and after further research dyeing and sampling, work on the final pieces began in 2009.  Jeni says it has been a fascinating and rewarding journey over the last few years.
 homepage_description_markdown:  >-
   Development of the designs and the processes involved in the making of the tapestries.
-frontpage: true
+frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/tapestries-work-in-progress/
 archive: false

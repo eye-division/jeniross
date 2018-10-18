@@ -24,13 +24,13 @@ homepage_description_markdown: >-
   theme 'A sense of Place'. My contribution celebrates living history; through a
   woven tapestry in the Main Entrance, a large carpet in the Castle Keep and
   etched glass figures on doors through the building.
-frontpage: true
+frontpage: false
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/norwich-castle/
 archive: false
 display_title: true
 display_image: false
-main_image_path:
+main_image_path: "/assets/images/4ae869b72886a.jpg"
 main_image_caption:
 thumb_crop: true
 images:

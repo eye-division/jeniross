@@ -25,32 +25,30 @@ _comments:
 ---
 
 <div class="editable">
-  <p class="strapline">This is an example of the full-width block layout, where promoted galleries and pages take up the full-width of the page. See also the <a href="/grid-layout/">grid layout</a></p>
-
-  <p>Check <a href="/gallery/cropped/">Cropped gallery</a> for an example of the cropped thumbnail layout. Other galleries default to full format thumbnails. Either is possible, on a per gallery basis.</p>
+  <p></p>
 </div>
 
-<div class="gallery">
 
-<!-- order galleries by date -->
-{% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
+<section class="gallery--list">
 
-{% for gallery in galleries %}
+  <!-- order galleries by date -->
+  {% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
 
-     <section class="gallery--cover {% if gallery.main_image_path %}has--cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-          <a href="{{ gallery.url }}">
-            <div class="scrim {% if gallery.main_image_path %}has--cover{% endif %}">
-            <article class="gallery--front">
-              <header class="gallery--header">
-                <h2 class="cover--title mb0">{{ gallery.title }}</h2>
-              </header>
-              {% if gallery.homepage_description_markdown %}
-              {{ gallery.homepage_description_markdown | markdownify }}  <span class="post--readmore">View gallery <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
-                {% endif %}
-          </article>
-          </div>
-        </a>
-      </section>
+  {% for gallery in galleries %}
 
-{% endfor %}
+     <div class="gallery--box">
+
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link">
+            <!-- cropped square images -->
+            {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+            <!-- end cropped square -->
+
+            <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+          </a>
+
+     </div>
+
+  {% endfor %}
+
+</section>
 </div>

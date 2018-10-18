@@ -1,5 +1,5 @@
 ---
-title: "Artist books"
+title: "Other media"
 description_markdown: >-
   As part of my initial research for the New College tapestries I began experimenting with making a series of small books.  My ideas for the project were related to Johannes Itten's twelve tone colour system and I have translated these into a series of twenty four hour 'clock'  books, starting and ending with midnight and centred on a sun motif in the middle.  
 
@@ -8,10 +8,10 @@ description_markdown: >-
   I like the way you can thus change each miniature "artwork" to suit the mood, rather like propping open a book of poems and concentrating on one piece for a while, rereading it over and over.  
 
 homepage_description_markdown: >-
-  As part of my initial research for the New College tapestries I began experimenting with making a series of small books.  My ideas for the project were related to Johannes Itten's twelve tone colour system and I have translated these into a series of twenty four hour 'clock'  books, starting and ending with midnight and centred on a sun motif in the middle.  
+    
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/artist-books/
+permalink: /gallery/other-media/
 archive: false
 display_title: true
 display_image: true

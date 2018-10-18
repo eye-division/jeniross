@@ -9,7 +9,7 @@ description_markdown: >-
 homepage_description_markdown: >-
   The New College Tapestries were installed in the Founders Library at New
   College in April 2015.
-frontpage: true
+frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/ashmolean-tapestries/
 archive: false

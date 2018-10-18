@@ -6,7 +6,7 @@ description_markdown: >-
 homepage_description_markdown: >-
   I believe strongly in the value of Art in Healthcare and have been
   successfully involved in a number of public art projects in hospitals.
-frontpage: true
+frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/art-in-healthcare/
 archive: false
