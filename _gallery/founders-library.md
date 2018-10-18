@@ -1,17 +1,17 @@
 ---
 title: 'The Founder''s Library, New College'
 description_markdown: >-
-  The Founder's Library, New College Dance to the Music of Time 2012 The suite
-  of 6 woven tapestries hang in the Founder's Library at New College, Oxford.
+  The Founder's Library, New College Dance to the Music of Time. The suite of 6
+  woven tapestries hang in the Founder's Library at New College, Oxford.
 homepage_description_markdown:
 frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/founders-library/
 archive: false
-display_title: true
-display_image: true
+display_title: false
+display_image: false
 main_image_path: /assets/images/5894a2cf79997.jpg
-main_image_caption:
+main_image_caption: 'The Founder''s Library Tapestries, New College, Oxford.'
 thumb_crop: true
 images:
   - image_path: /assets/images/5894a2cf79997.jpg
