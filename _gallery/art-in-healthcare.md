@@ -12,7 +12,7 @@ permalink: /gallery/art-in-healthcare/
 archive: false
 display_title: true
 display_image: true
-main_image_path: /assets/images/4ae71719532c8.jpg
+main_image_path:
 main_image_caption:
 thumb_crop: true
 images:
@@ -21,24 +21,16 @@ images:
     image_description_markdown: >-
       1400 x 1800m Tufted Textile Wall Hanging. Tufted Textile Wall Hanging.
       Commission for Parklands House. Royal Oldham Hospital
-  - image_path:
-    image_title:
-    image_description_markdown:
   - image_path: /assets/images/4af038be04942.jpg
     image_title: Lifelines
     image_description_markdown: >-
       Hand Gun-Tufted Wool Pile Wallhanging for St. Luke's Hospital,
       Middlesborough.&nbsp; 2400 x 3200mm.
-  - image_path: /assets/images/4af03b5e417b5.jpg
+  - image_path: /uploads/eafwfinished-rug.jpg
     image_title: 'Earth, Air, Fire and Water'
     image_description_markdown: >-
-      Gouache on Paper, mixed media Design for Tufted Pile Wall Textile. Shannon
-      Clinic, South Belfast Trust. 2004.
-  - image_path: /assets/images/4b03fe49ed915.jpg
-    image_title: 'Earth, Air, Fire and Water - detail'
-    image_description_markdown: >-
-      1300 x 1600 mm Tufted Wool Pile. Detail of the finished tufted pile wall
-      textile.
+      "Earth, Air, Fire and Water." Tufted Pile Wall Textile. Shannon Clinic,
+      South Belfast Trust.
   - image_path: /assets/images/4db978c29ba5a.jpg
     image_title: Kent Composition
     image_description_markdown: >-
@@ -54,6 +46,12 @@ images:
     image_description_markdown: >-
       Hand Gun-Tufted Wool Pile. Detail: 'Faces' for Belfast Childrens'
       Treatment Centres.
+  - image_path:
+    image_title:
+    image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
   - image_path:
     image_title:
     image_description_markdown:
