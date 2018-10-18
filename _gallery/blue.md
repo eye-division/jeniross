@@ -1,7 +1,7 @@
 ---
 title: Blue
 description_markdown: >-
-  "BLUE" Internal Commission for New Ashgate Gallery 2006.
+  "BLUE"&nbsp; Commission for New Ashgate Gallery 2006.
 
 
   This installation was commissioned to mark the refurbishment of the gallery
