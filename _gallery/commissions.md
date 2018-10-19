@@ -5,7 +5,7 @@ description_markdown: >-
   different and affords an exciting challenge to combine colour, movement and
   content and to integrate these sympathetically into a specific location.
 homepage_description_markdown:
-frontpage: true
+frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/commissions/
 archive: false
