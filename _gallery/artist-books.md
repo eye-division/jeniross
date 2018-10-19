@@ -52,9 +52,6 @@ images:
   - image_path: /assets/images/4ccb016ba6cf0.jpg
     image_title:
     image_description_markdown:
-  - image_path: /assets/images/4ccb01a68b99f.jpg
-    image_title:
-    image_description_markdown:
   - image_path: /assets/images/4ccafecc01069.jpg
     image_title:
     image_description_markdown:
@@ -62,9 +59,6 @@ images:
     image_title:
     image_description_markdown:
   - image_path: /assets/images/4ccaffc0cedc2.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /uploads/img-1467-2.jpg
     image_title:
     image_description_markdown:
   - image_path: /assets/images/4ccb0025199ea.jpg
