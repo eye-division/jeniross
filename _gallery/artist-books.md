@@ -34,9 +34,6 @@ images:
   - image_path: /assets/images/524da4d517f81.jpg
     image_title:
     image_description_markdown:
-  - image_path: /assets/images/524da527ce6d9.jpg
-    image_title:
-    image_description_markdown:
   - image_path: /assets/images/524da58149452.jpg
     image_title:
     image_description_markdown:
@@ -58,12 +55,6 @@ images:
   - image_path: /assets/images/4ccb01a68b99f.jpg
     image_title:
     image_description_markdown:
-  - image_path: /assets/images/4ccb0259676d3.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /assets/images/4ccafe7d9a5c6.jpg
-    image_title:
-    image_description_markdown:
   - image_path: /assets/images/4ccafecc01069.jpg
     image_title:
     image_description_markdown:
@@ -73,7 +64,7 @@ images:
   - image_path: /assets/images/4ccaffc0cedc2.jpg
     image_title:
     image_description_markdown:
-  - image_path: /assets/images/4ccafff5c1937.jpg
+  - image_path: /uploads/img-1467-2.jpg
     image_title:
     image_description_markdown:
   - image_path: /assets/images/4ccb0025199ea.jpg
