@@ -1,21 +1,20 @@
 ---
-title: "Commissions"
+title: Commissions
 description_markdown: >-
-  I believe strongly in the value of Art in Healthcare and have been
-  successfully involved in a number of public art projects in hospitals.
-homepage_description_markdown: >-
-  
+  Commissions form an important part of Jeni Ross’s work. Each project is
+  different and affords an exciting challenge to combine colour, movement and
+  content and to integrate these sympathetically into a specific location.
+homepage_description_markdown:
 frontpage: true
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/commissions/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /assets/images/4ae71719532c8.jpg
-main_image_caption:
+main_image_path: /uploads/norwich-castle-mus-tapestry.jpg
+main_image_caption: '"Living History" Norwich Castle Museum Tapestry'
 thumb_crop: true
 images:
-
 _options:
   image_path:
     width: '1200'
