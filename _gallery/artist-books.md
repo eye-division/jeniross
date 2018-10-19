@@ -7,13 +7,14 @@ description_markdown: >-
   translated these into a series of twenty four hour 'clock' books, starting and
   ending with midnight and centred on a sun motif in the middle.<br>The classic
   book form has a time based narrative; a concertina book on the other hand can
-  be read all at once offering a more visual experience. Each of the concertina
-  or leporello books can be opened out into a continuous sheet 3.5 metres long
-  or closed down and arranged in many different ways to give a different visual
-  image each time it is viewed. The simpler book form offers a separate double
-  page spread for each time period chosen.<br>I like the way you can thus change
-  each miniature "artwork" to suit the mood, rather like propping open a book of
-  poems and concentrating on one piece for a while, rereading it over and over.
+  be read all at once offering a more visual experience. Each of the&nbsp;
+  leporello or concertina books can be opened out into a continuous sheet 3.5
+  metres long or closed down and arranged in many different ways to give a
+  different visual image each time it is viewed. The simpler book form offers a
+  separate double page spread for each time period chosen.<br>I like the way you
+  can thus change each miniature "artwork" to suit the mood, rather like
+  propping open a book of poems and concentrating on one piece for a while,
+  rereading it over and over.
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
