@@ -16,15 +16,15 @@ main_image_path: /assets/images/5978bbcd92847.jpg
 main_image_caption:
 thumb_crop: true
 images:
-  - image_path: /assets/images/5978bbcd92847.jpg
-    image_title: '**Origin of Species** by Jeni Ross'
-    image_description_markdown: each 800 x 400mm 2016 Woven Tapestry Pair
   - image_path: /assets/images/55b8cbb47badd.jpg
     image_title: None of This Transpired by Jeni Ross
     image_description_markdown: 560 x560 mm 2014 Woven Tapestry
-  - image_path: /assets/images/55b8d27d4f820.jpg
-    image_title: None of This Transpired/Detail by Jeni Ross
-    image_description_markdown: 2014 Woven Tapestry
+  - image_path: /uploads/observers-scattered.jpg
+    image_title: Observers Scattered
+    image_description_markdown: Woven Tapestry Pair. Each 800 x 400mm
+  - image_path: /assets/images/5978bbcd92847.jpg
+    image_title: '**Origin of Species** by Jeni Ross'
+    image_description_markdown: each 800 x 400mm 2016 Woven Tapestry Pair
   - image_path: /assets/images/589b49348c42c.jpg
     image_title: Where Are We From? by Jeni Ross
     image_description_markdown: 560 x 560mm 2014 Woven Tapestry
