@@ -2,7 +2,7 @@
 title: Rugs and carpets
 description_markdown: >-
   Jeni has designed a number of one-off carpets and limited edition rugs which
-  have formed an important part of the commissioned work. &nbsp;
+  have formed an important part of her commissioned work. &nbsp;
 
 
   Both public and private clients commission bespoke rugs for specific
