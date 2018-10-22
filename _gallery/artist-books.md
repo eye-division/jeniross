@@ -35,9 +35,6 @@ images:
   - image_path: /assets/images/524da4d517f81.jpg
     image_title:
     image_description_markdown:
-  - image_path: /assets/images/524da58149452.jpg
-    image_title:
-    image_description_markdown:
   - image_path: /assets/images/524da5bf7bb3d.jpg
     image_title:
     image_description_markdown:
