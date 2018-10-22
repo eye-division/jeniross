@@ -62,15 +62,6 @@ images:
   - image_path: /assets/images/4ccb0025199ea.jpg
     image_title:
     image_description_markdown:
-  - image_path: /assets/images/4ccb02ca7b0b8.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /assets/images/4ccb03003b4c9.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /assets/images/4ccb033265c54.jpg
-    image_title:
-    image_description_markdown:
   - image_path:
     image_title:
     image_description_markdown:
