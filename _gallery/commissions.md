@@ -12,7 +12,7 @@ archive: false
 display_title: true
 display_image: false
 main_image_path: /uploads/norwich-castle-mus-tapestry.jpg
-main_image_caption: '"Living History" Norwich Castle Museum Tapestry'
+main_image_caption: '"Living History" Norwich Castle Museum Tapestry. 2.2 x 2 m.'
 thumb_crop: true
 images:
 _options:
