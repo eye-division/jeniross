@@ -88,10 +88,10 @@ images:
     image_title: Guildford House Tapestry by Jeni Ross
     image_description_markdown: >-
       90 x 90 cm 1989 Woven Tapestry This Tapestry was commissioned by Guildford
-      House and the Victoria and Albert Museum. The design takes its inspiration
-      form elements of the 17th century building itself and the tapestry hangs
-      in one of the fine wood panelled rooms in this well known High Street
-      landmark.
+      House, Guildford and the Victoria and Albert Museum. The design takes its
+      inspiration form elements of the 17th century building itself and the
+      tapestry hangs in one of the fine wood panelled rooms in this well known
+      High Street landmark.
   - image_path: /assets/images/55b8d66fabbce.jpg
     image_title: Tree of Life by Jeni Ross
     image_description_markdown: 1986 Woven Tapestry
