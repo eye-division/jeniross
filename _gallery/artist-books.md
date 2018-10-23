@@ -26,6 +26,21 @@ main_image_path: /assets/images/524da390e8136.jpg
 main_image_caption:
 thumb_crop: true
 images:
+  - image_path: /uploads/img-0212.jpg
+    image_title: Purple and Brown with Green Shoot
+    image_description_markdown: |-
+      Mixed media painting, 300 x 300mm 2018
+
+      &nbsp;
+  - image_path: /uploads/img-0214.jpg
+    image_title: Red with Turquoise Spot
+    image_description_markdown: 'Mixed media painting, 300 x 300mm 2018'
+  - image_path: /uploads/img-0216.jpg
+    image_title: Dusk with Leaves
+    image_description_markdown: 'Mixed media painting, 300 x 300mm 2018'
+  - image_path: /uploads/img-0215.jpg
+    image_title: Black and Yellow with Grey Spot
+    image_description_markdown: 'Mixed media painting, 300 x 300mm 2018'
   - image_path: /assets/images/524da390e8136.jpg
     image_title:
     image_description_markdown:
@@ -60,9 +75,6 @@ images:
     image_title:
     image_description_markdown:
   - image_path: /assets/images/4ccb0025199ea.jpg
-    image_title:
-    image_description_markdown:
-  - image_path:
     image_title:
     image_description_markdown:
 _options:
