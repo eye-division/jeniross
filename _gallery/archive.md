@@ -16,7 +16,9 @@ thumb_crop: true
 images:
   - image_path: /uploads/nc-des1-pair-1-2.jpg
     image_title: NC Des1/Pair1
-    image_description_markdown:
+    image_description_markdown: >-
+      This page shows the development of the designs and the processes involved
+      in the making of the New College Tapestries.
   - image_path: /uploads/nc1-pair-3.jpg
     image_title: NC Design2/Pair1
     image_description_markdown:
