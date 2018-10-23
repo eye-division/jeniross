@@ -1,6 +1,8 @@
 ---
 title: Archive
-description_markdown:
+description_markdown: >-
+  This page shows the development of the designs and the processes involved in
+  the making of the New College Tapestries.
 homepage_description_markdown:
 frontpage: false
 gallery_date: 2016-05-01 00:00:00
@@ -12,8 +14,23 @@ main_image_path: /uploads/nc-des1-pair-1.jpg
 main_image_caption: NC Design 1/Pr 1
 thumb_crop: true
 images:
-  - image_path:
-    image_title:
+  - image_path: /uploads/nc1-pair-3.jpg
+    image_title: NC Design2/Pair1
+    image_description_markdown:
+  - image_path: /uploads/nc-des1-pair2.jpg
+    image_title: NC Design1/Pair2
+    image_description_markdown:
+  - image_path: /uploads/nc-des1-pair3.jpg
+    image_title: NC Des1/Pair4
+    image_description_markdown:
+  - image_path: /uploads/img-0178-2.jpg
+    image_title: New College Designs/Work in Progress
+    image_description_markdown:
+  - image_path: /uploads/imgp2187.jpg
+    image_title: Sampling for new College Tapestries
+    image_description_markdown:
+  - image_path: /uploads/4af97a957f4fe.jpg
+    image_title: Coiled Samples off the Loom
     image_description_markdown:
 _options:
   image_path:
