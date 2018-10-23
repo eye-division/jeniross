@@ -35,6 +35,21 @@ images:
   - image_path: /uploads/4af97a957f4fe.jpg
     image_title: Coiled Samples off the Loom
     image_description_markdown:
+  - image_path: /uploads/imgp2219.jpg
+    image_title: 'Detail: New College Tapestry'
+    image_description_markdown:
+  - image_path: /uploads/imgp2266.jpg
+    image_title: 'Detail: New College Tapestry'
+    image_description_markdown: Part of Sun image on the loom
+  - image_path: /uploads/imgp2247.jpg
+    image_title: 'Detail: New College Tapestry'
+    image_description_markdown: 'Gold and silver thread, woven in and knotted.'
+  - image_path: /uploads/img-0104.jpg
+    image_title: 'Detail:  New College Tapestry'
+    image_description_markdown: Soumak lines on tapestry 6
+  - image_path: /uploads/img-0338.jpg
+    image_title: 'Detail: Finishing edges'
+    image_description_markdown:
 _options:
   image_path:
     width: '1200'
