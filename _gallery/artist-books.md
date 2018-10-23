@@ -1,5 +1,5 @@
 ---
-title: Other media
+title: Other Media
 description_markdown: >-
   As part of my initial research for the New College tapestries I began
   experimenting with making a series of small books. My ideas for the project
@@ -12,9 +12,9 @@ description_markdown: >-
   metres long or closed down and arranged in many different ways to give a
   different visual image each time it is viewed. The simpler book form offers a
   separate double page spread for each time period chosen.<br>I like the way you
-  can thus change each miniature "artwork" to suit the mood, rather like
-  propping open a book of poems and concentrating on one piece for a while,
-  rereading it over and over.
+  can thus change each "miniature"&nbsp; to suit the mood, rather like propping
+  open a book of poems and concentrating on one piece for a while, rereading it
+  over and over.
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
