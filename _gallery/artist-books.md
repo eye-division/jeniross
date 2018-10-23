@@ -41,6 +41,18 @@ images:
   - image_path: /uploads/img-0215.jpg
     image_title: Black and Yellow with Grey Spot
     image_description_markdown: 'Mixed media painting, 300 x 300mm 2018'
+  - image_path: /uploads/img-0220.jpg
+    image_title: Red and Yellow with Grey
+    image_description_markdown: 'Mixed media painting, 400 x 400mm 2018'
+  - image_path: /uploads/img-4952.jpg
+    image_title: 'Purple, Pink and Turquoise'
+    image_description_markdown: 'Mixed media painting, 400 x 400mm 2018'
+  - image_path: /uploads/img-0523.jpg
+    image_title: Deep Blue with Lemon
+    image_description_markdown: 'Mixed media painting, 400 x 400mm 2018'
+  - image_path: /uploads/img-0606-2.jpg
+    image_title: Orange and Grey with green Windows
+    image_description_markdown: 'Mixed media painting, 400 x 400mm 2018'
   - image_path: /assets/images/524da390e8136.jpg
     image_title:
     image_description_markdown:
