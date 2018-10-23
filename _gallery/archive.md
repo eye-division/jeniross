@@ -10,10 +10,13 @@ permalink: /gallery/archive/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /uploads/nc-des1-pair-1.jpg
+main_image_path: /uploads/nc-des1-pair-1-1.jpg
 main_image_caption: NC Design 1/Pr 1
 thumb_crop: true
 images:
+  - image_path: /uploads/nc-des1-pair-1-2.jpg
+    image_title: NC Des1/Pair1
+    image_description_markdown:
   - image_path: /uploads/nc1-pair-3.jpg
     image_title: NC Design2/Pair1
     image_description_markdown:
