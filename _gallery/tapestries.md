@@ -42,7 +42,7 @@ images:
     image_description_markdown: 560 x560mm 2015 Woven Tapestry
   - image_path: /assets/images/55b8c73eb5d97.jpg
     image_title: Blue Figure by Jeni Ross
-    image_description_markdown: 1080 x 1000mm Woven tapestry
+    image_description_markdown: 1080 x 1000mm Woven tapestry. Artist's Collection
   - image_path: /assets/images/4b03d74e0da95.jpg
     image_title: '**Shade Seeking** by Jeni Ross'
     image_description_markdown: >-
@@ -54,23 +54,23 @@ images:
   - image_path: /assets/images/55b8cd93160c6.jpg
     image_title: Bergamasque by Jeni Ross
     image_description_markdown: 1350 x2050mm Woven Tapestry **All The World's a Stage** Private Collection
+  - image_path: /uploads/maidstone-tap-2.jpg
+    image_title: 'Kent Composition: Jeni Ross'
+    image_description_markdown: >-
+      Woven Tapestry. 1.2 x 1.5 metres. Commission for Mid-Kent Oncology Centre,
+      Maidstone. For Powell Moya Architects 1993
   - image_path: /assets/images/556c61837505a.jpg
     image_title: The Isle is Full of Noises by Jeni Ross
     image_description_markdown: >-
       150 x 168cm Woven Tapestry I am fascinated by **The Tempest** and have
       found myself returning again to the idea of this **stage set** island.
       This version has Caliban at its centre. Private Collection.
-  - image_path: /uploads/maidstone-tap-2.jpg
-    image_title: 'Kent Composition: Jeni Ross'
-    image_description_markdown: >-
-      Woven Tapestry. 1.2 x 1.5 metres. Commission for Mid-Kent Oncology Centre,
-      Maidstone. For Powell Moya Architects 1993
   - image_path: /assets/images/4eca664f7384d.jpg
     image_title: 'Detail: **The Isle is Full of Noises** by Jeni Ross'
     image_description_markdown: Woven tapestry Private Collection
   - image_path: /assets/images/4ee0d8a546b79.jpg
     image_title: '**Sortileges** by Jeni Ross'
-    image_description_markdown: 1000 x 1000 mm Woven Tapestry
+    image_description_markdown: 1000 x 1000 mm Woven Tapestry. Artist's Collection
   - image_path: /assets/images/4eca68642c92e.jpg
     image_title: '**On a Summer Midnight you can hear the Music** by Jeni Ross'
     image_description_markdown: 1000 x 1000 mm Woven Tapestry Private Collection
@@ -98,11 +98,11 @@ images:
   - image_path: /assets/images/556c74ae45fae.jpg
     image_title: Guildford House Tapestry by Jeni Ross
     image_description_markdown: >-
-      90 x 90 cm 1989 Woven Tapestry This Tapestry was commissioned by Guildford
-      House, Guildford and the Victoria and Albert Museum. The design takes its
-      inspiration form elements of the 17th century building itself and the
-      tapestry hangs in one of the fine wood panelled rooms in this well known
-      High Street landmark.
+      90 x 90 cm 1989 Woven Tapestry. This Tapestry was commissioned by
+      Guildford House, Guildford and the Victoria and Albert Museum. The design
+      takes its inspiration form elements of the 17th century building itself
+      and the tapestry hangs in one of the fine wood panelled rooms in this well
+      known High Street landmark.
   - image_path: /assets/images/55b8d66fabbce.jpg
     image_title: Tree of Life by Jeni Ross
     image_description_markdown: 1986 Woven Tapestry
