@@ -106,6 +106,12 @@ images:
   - image_path: /assets/images/55b8d66fabbce.jpg
     image_title: Tree of Life by Jeni Ross
     image_description_markdown: 1986 Woven Tapestry
+  - image_path: /uploads/i-am-of-earth.jpg
+    image_title: I am of Earth and of Starry Heaven. Jeni Ross
+    image_description_markdown: Woven Tapestry.
+  - image_path: /uploads/snail-trail.jpg
+    image_title: Snail Trail. Jeni Ross
+    image_description_markdown: Woven Tapestry.
 _options:
   image_path:
     width: '1200'
