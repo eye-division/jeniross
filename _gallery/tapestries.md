@@ -111,7 +111,7 @@ images:
     image_description_markdown: Woven Tapestry.
   - image_path: /uploads/snail-trail.jpg
     image_title: Snail Trail. Jeni Ross
-    image_description_markdown: Woven Tapestry.
+    image_description_markdown: Woven Tapestry. Artist's Collection.
 _options:
   image_path:
     width: '1200'
