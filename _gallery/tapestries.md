@@ -60,6 +60,11 @@ images:
       150 x 168cm Woven Tapestry I am fascinated by **The Tempest** and have
       found myself returning again to the idea of this **stage set** island.
       This version has Caliban at its centre. Private Collection.
+  - image_path: /uploads/maidstone-tap-2.jpg
+    image_title: 'Kent Composition: Jeni Ross'
+    image_description_markdown: >-
+      Woven Tapestry. 1.2 x 1.5 metres. Commission for Mid-Kent Oncology Centre,
+      Maidstone. For Powell Moya Architects 1993
   - image_path: /assets/images/4eca664f7384d.jpg
     image_title: 'Detail: **The Isle is Full of Noises** by Jeni Ross'
     image_description_markdown: Woven tapestry Private Collection
@@ -72,6 +77,12 @@ images:
   - image_path: /assets/images/4eca69f235353.jpg
     image_title: '**Fragments** by Jeni Ross'
     image_description_markdown: 550 x 520 mm Woven Tapestry Private Collection
+  - image_path: /uploads/nightly-revels.jpg
+    image_title: 'Nightly Revels and New Jollity: Jeni Ross'
+    image_description_markdown: >-
+      Woven Tapestry 2.2 x 2 metres. Commission and Award from the JG Graves
+      Charitable Arts Trust (Graves &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Art
+      Gallery) for the Lyceum Theatre, Sheffield. 1991
   - image_path: /assets/images/5061cebd8d58e.jpg
     image_title: '**Masque** by Jeni Ross'
     image_description_markdown: 1000 x 1000 mm Woven Tapestry POA
