@@ -50,6 +50,20 @@ images:
   - image_path: /uploads/img-0338.jpg
     image_title: 'Detail: Finishing edges'
     image_description_markdown:
+  - image_path: /uploads/americana-rug.jpg
+    image_title: Americana Rug
+    image_description_markdown: Hand Gun-Tufted Wool rug 240 x 180 mm. Private Client.
+  - image_path: /uploads/roll-313---7.jpg
+    image_title: 'Detail: Americana Rug'
+    image_description_markdown:
+  - image_path: /uploads/carpet.jpg
+    image_title: Magic Carpet.
+    image_description_markdown: >-
+      Part of a Commission for Norwich Castle Museum. Hand Gun-Tufted Wool
+      Carpet 4.3 x 3.2 Metres.
+  - image_path: /uploads/img-0999.jpg
+    image_title: 'Detail: Magic Carpet'
+    image_description_markdown:
 _options:
   image_path:
     width: '1200'
