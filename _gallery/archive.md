@@ -65,9 +65,28 @@ images:
     image_title: Magic Carpet.
     image_description_markdown: >-
       Part of a Commission for Norwich Castle Museum. Hand Gun-Tufted Wool
-      Carpet 4.3 x 3.2 Metres.
+      Carpet 4.3 x 3.2 Metres. The carpet provides a sitting space for
+      schoolchildren while listening to tales of the history of the Castle Keep.
   - image_path: /uploads/img-0999.jpg
     image_title: 'Detail: Magic Carpet'
+    image_description_markdown: >-
+      Detail of Magic Carpet for Norwich Castle Keep. The carpet provides a
+      sitting space for schoolchildren while listening to tales of the history
+      of the Keep.
+  - image_path: /uploads/imgp1643.jpg
+    image_title: Rug Design
+    image_description_markdown:
+  - image_path: /uploads/img-0855.jpg
+    image_title: Rug Design
+    image_description_markdown:
+  - image_path: /uploads/img-0856.jpg
+    image_title: Rug Design
+    image_description_markdown:
+  - image_path: /uploads/img-0859.jpg
+    image_title: Rug Design
+    image_description_markdown:
+  - image_path:
+    image_title:
     image_description_markdown:
 _options:
   image_path:
