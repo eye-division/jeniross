@@ -75,16 +75,16 @@ images:
       of the Keep.
   - image_path: /uploads/imgp1643.jpg
     image_title: Rug Design
-    image_description_markdown:
+    image_description_markdown: Design for Hand Gun-Tufted Wool Pile Rug.
   - image_path: /uploads/img-0855.jpg
     image_title: Rug Design
-    image_description_markdown:
+    image_description_markdown: Design for Hand Gun-Tufted Wool Pile Rug.
   - image_path: /uploads/img-0856.jpg
     image_title: Rug Design
-    image_description_markdown:
+    image_description_markdown: Design for Hand Gun-Tufted Wool Pile Rug.
   - image_path: /uploads/img-0859.jpg
     image_title: Rug Design
-    image_description_markdown:
+    image_description_markdown: Design for Hand Gun-Tufted Wool Pile Rug.
   - image_path: /uploads/reverie-28a.jpg
     image_title: Reverie Series No.28
     image_description_markdown: |-
