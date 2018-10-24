@@ -2,7 +2,8 @@
 title: Archive
 description_markdown: >-
   This page shows the development of the designs and the processes involved in
-  the making of the New College Tapestries.
+  the making of the New College Tapestries, hand gun-tufted rugs and carpets and
+  other earlier work.
 homepage_description_markdown:
 frontpage: false
 gallery_date: 2016-05-01 00:00:00
