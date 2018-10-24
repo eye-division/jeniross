@@ -52,6 +52,18 @@ images:
   - image_path: /uploads/img-0606-2.jpg
     image_title: Orange and Grey with green Windows
     image_description_markdown: 'Mixed media painting, 400 x 400mm 2018'
+  - image_path: /uploads/figure-in-moonlight.jpg
+    image_title: Figure in Moonlight
+    image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
+  - image_path: /uploads/img-2069.jpg
+    image_title: Blue Tree
+    image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
+  - image_path: /uploads/img-2060-edited-1.jpg
+    image_title: Tree with Sun
+    image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
+  - image_path: /uploads/basking-2.jpg
+    image_title: Basking 2
+    image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
   - image_path: /assets/images/524da390e8136.jpg
     image_title:
     image_description_markdown:
@@ -88,18 +100,6 @@ images:
   - image_path: /assets/images/4ccb0025199ea.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/figure-in-moonlight.jpg
-    image_title: Figure in Moonlight
-    image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
-  - image_path: /uploads/img-2069.jpg
-    image_title: Blue Tree
-    image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
-  - image_path: /uploads/img-2060-edited-1.jpg
-    image_title: Tree with Sun
-    image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
-  - image_path: /uploads/basking-2.jpg
-    image_title: Basking 2
-    image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
 _options:
   image_path:
     width: '1200'
