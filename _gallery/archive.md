@@ -85,9 +85,21 @@ images:
   - image_path: /uploads/img-0859.jpg
     image_title: Rug Design
     image_description_markdown:
-  - image_path:
-    image_title:
-    image_description_markdown:
+  - image_path: /uploads/reverie-28a.jpg
+    image_title: Reverie Series No.28
+    image_description_markdown: |-
+      Tom's Midnight Garden.
+
+      Gouache on Saunders Paper
+  - image_path: /uploads/54110006.jpg
+    image_title: 'Reverie Series : No. 11'
+    image_description_markdown: Gouache on Saunders Paper
+  - image_path: /uploads/reverie-no.jpg
+    image_title: 'Reverie Series: No 18'
+    image_description_markdown: Gouache on Saunders Paper.
+  - image_path: /uploads/reverie27a.jpg
+    image_title: 'Reverie Series: No 27'
+    image_description_markdown: Gouache on Saunders Paper
 _options:
   image_path:
     width: '1200'
