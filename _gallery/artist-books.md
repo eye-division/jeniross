@@ -14,7 +14,7 @@ description_markdown: >-
   relief effect.&nbsp;&nbsp;
 
 
-  Some pieces are&nbsp; available for sale. Please enquire.
+  &nbsp;
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
