@@ -107,6 +107,30 @@ images:
 
 
       1400 x 1800 mm
+  - image_path: /uploads/lifelines.jpg
+    image_title: 'Lifelines: Jeni Ross'
+    image_description_markdown: |-
+      Tufted Textile wall hanging for St Luke's Hospital, Middlesborough.
+
+      2400 x 3200mm.&nbsp;
+  - image_path: /uploads/maff-carpetjpeg.jpg
+    image_title: 'Macro-Micro Carpet: Jeni Ross'
+    image_description_markdown: >-
+      Carpet for the Central Science Laboratory, Ryedale, York. 7.5 x 4.8
+      metres.
+
+
+      The artworks are situated in the main entrance atrium. RMJM(London) Ltd
+      (Architects).
+  - image_path: /uploads/maff-tapsjpeg.jpg
+    image_title: 'Macro-Micro Tapestry Pair: Jeni Ross'
+    image_description_markdown: >-
+      Tapestry Pair for the Central Science Laboratory, Ryedale, York. 4.5 x 1
+      metre.
+
+
+      The artworks are situated in the main entrance atrium. RMJM(London) Ltd
+      (Architects).
 _options:
   image_path:
     width: '1200'
