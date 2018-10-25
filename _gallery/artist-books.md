@@ -22,8 +22,8 @@ permalink: /gallery/other-media/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /assets/images/524da390e8136.jpg
-main_image_caption:
+main_image_path: /uploads/img-0212-1.jpg
+main_image_caption: Purple and Brown with Green Shoot.  Jeni Ross
 thumb_crop: true
 display_thumb_title: false
 images:
