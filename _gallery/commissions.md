@@ -16,8 +16,23 @@ thumb_crop: true
 display_thumb_title: true
 archive: false
 images:
-  - image_path:
-    image_title:
+  - image_path: /uploads/img-4490.jpg
+    image_title: 4 of the New College Tapestries
+    image_description_markdown: >-
+      "Dance to the Music of Time": Suite of 6&nbsp; woven Tapestries for The
+      Founder's Library, New College, Oxford. The tapestries were exhibited at
+      the Ashmolean Museum before their final installation at the Oxford
+      College.
+  - image_path: /uploads/img-4497.jpg
+    image_title: 2 of the New College Tapestries
+    image_description_markdown: >-
+      "Dance to the Music of Time": Suite of 6&nbsp; woven Tapestries for The
+      Founder's Library, New College, Oxford.
+  - image_path: /uploads/nc-tap-4-ash.jpg
+    image_title: 'Detail: New College Tapestry'
+    image_description_markdown:
+  - image_path: /uploads/nc-tap-1-ash.jpg
+    image_title: 'Detail: New College Tapestry'
     image_description_markdown:
 _options:
   image_path:
