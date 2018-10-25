@@ -83,6 +83,22 @@ images:
   - image_path: /uploads/h-of-lords-tap.jpg
     image_title: 'Figure in a Landscape: Jeni Ross'
     image_description_markdown: 'House of Lords Offices, Government Art Collection.'
+  - image_path: /uploads/air--earth-art--nature.jpg
+    image_title: 'Earth and Air: Strode Theatre'
+    image_description_markdown: >-
+      Earth and Air, Art and Nature. Each 1400 x 2000 mm
+
+
+      One of a pair of tapestries at ground and 1st floor for the Strode
+      Theatre, Street.
+  - image_path: /uploads/art--nature-jpeg.jpg
+    image_title: 'Art and Nature: Strode Theatre.'
+    image_description_markdown: >-
+      Earth and Air, Art and Nature. Each 1400 x 2000 mm
+
+
+      One of a pair of tapestries at ground and 1st floor for the Strode
+      Theatre, Street.
   - image_path:
     image_title:
     image_description_markdown:
