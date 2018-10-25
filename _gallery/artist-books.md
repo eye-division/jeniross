@@ -1,19 +1,20 @@
 ---
 title: Other Media
 description_markdown: >-
-  As part of my initial research for the New College tapestries I experimented
-  with a series of small books. My ideas for the&nbsp; project were related to
-  Johannes Itten's twelve tone colour system and I have translated these into a
-  series of twenty four hour 'clock' books, starting and ending with midnight
-  and centred on a sun motif in the middle.<br>The classic book form has a time
-  based narrative; a concertina book on the other hand can be read all at once
-  offering a more visual experience. Each of the&nbsp; leporello or concertina
-  books can be opened out into a continuous sheet 3.5 metres long or closed down
-  and arranged in many different ways to give a different visual image each time
-  it is viewed. The simpler book form offers a separate double page spread for
-  each time period chosen.<br>I like the way you can thus change each
-  "miniature"&nbsp; to suit the mood, rather like propping open a book of poems
-  and concentrating on one piece for a while, rereading it over and over.
+  Jeni is fascinated by pure colour and how colours interact with each other.
+  She&nbsp; explores this in her work on paper as part of the creative process.
+  Sometimes these are&nbsp; developed further and translated into a textile,
+  others stand as pieces in their own right. &nbsp;
+
+
+  Jeni uses cut and torn paper collages as a starting point for many of her
+  designs which are then painted, but she is perhaps best known for her
+  cut-outs.&nbsp; These are made by carving shapes into hand painted sheets of
+  paper and working with both positive and negative images building up a low
+  relief effect.&nbsp;&nbsp;
+
+
+  Some pieces are&nbsp; available for sale. Please enquire.
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
