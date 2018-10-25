@@ -54,7 +54,10 @@ images:
     image_description_markdown: 870 x 780mm. Woven tapestry
   - image_path: /assets/images/55b8cd93160c6.jpg
     image_title: '"Bergamasque":  Jeni Ross'
-    image_description_markdown: 1350 x2050mm Woven Tapestry **All The World's a Stage** Private Collection
+    image_description_markdown: |-
+      1350 x2050mm Woven Tapestry: All The World's a Stage
+
+      Private Collection
   - image_path: /uploads/maidstone-tap-2.jpg
     image_title: 'Kent Composition: Jeni Ross'
     image_description_markdown: >-
@@ -63,9 +66,9 @@ images:
   - image_path: /assets/images/556c61837505a.jpg
     image_title: The Isle is Full of Noises by Jeni Ross
     image_description_markdown: >-
-      150 x 168cm Woven Tapestry I am fascinated by **The Tempest** and have
+      150 x 168cm Woven Tapestry. I am fascinated by **The Tempest** and have
       found myself returning again to the idea of this **stage set** island.
-      This version has Caliban at its centre. Private Collection.
+      Private Collection.
   - image_path: /assets/images/4eca664f7384d.jpg
     image_title: 'Detail: **The Isle is Full of Noises** by Jeni Ross'
     image_description_markdown: Woven tapestry Private Collection
