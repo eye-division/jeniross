@@ -67,6 +67,18 @@ images:
   - image_path: /uploads/basking-2.jpg
     image_title: Basking 2
     image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
+  - image_path: /uploads/reverie-28a.jpg
+    image_title: Reverie No. 28a. Jeni Ross
+    image_description_markdown: 'Tom''s Midnight Garden. Gouache on Paper, mixed media.'
+  - image_path: /uploads/reverie27a.jpg
+    image_title: Reverie No 27. Jeni Ross
+    image_description_markdown: 'Image: 51 x 40 cm<br>Gouache on Paper, mixed media'
+  - image_path: /uploads/54110006-1.jpg
+    image_title: Reverie No.11. Jeni Ross
+    image_description_markdown: '64 x 57 cm<br>Gouache on Paper, mixed media.'
+  - image_path: /uploads/reverie-no.jpg
+    image_title: Reverie No. 23
+    image_description_markdown: 'Gouache on Paper, mixed media.'
   - image_path: /assets/images/524da390e8136.jpg
     image_title: Leporello artist's book. Jeni Ross
     image_description_markdown: >-
@@ -100,18 +112,6 @@ images:
   - image_path: /assets/images/4ccb016ba6cf0.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/reverie-28a.jpg
-    image_title: Reverie No. 28a. Jeni Ross
-    image_description_markdown: 'Tom''s Midnight Garden. Gouache on Paper, mixed media.'
-  - image_path: /uploads/reverie27a.jpg
-    image_title: Reverie No 27. Jeni Ross
-    image_description_markdown: 'Image: 51 x 40 cm<br>Gouache on Paper, mixed media'
-  - image_path: /uploads/54110006-1.jpg
-    image_title: Reverie No.11. Jeni Ross
-    image_description_markdown: '64 x 57 cm<br>Gouache on Paper, mixed media.'
-  - image_path: /uploads/reverie-no.jpg
-    image_title: Reverie No. 23
-    image_description_markdown: 'Gouache on Paper, mixed media.'
   - image_path: /assets/images/4ccafecc01069.jpg
     image_title:
     image_description_markdown: >-
