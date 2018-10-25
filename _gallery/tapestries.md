@@ -53,8 +53,8 @@ images:
     image_title: Portrait by Jeni Ross
     image_description_markdown: 870 x 780mm. Woven tapestry
   - image_path: /assets/images/55b8cd93160c6.jpg
-    image_title: '"Bergamasque":  Jeni Ross'
-    image_description_markdown: |-
+    image_title: 'Bergamasque:  Jeni Ross'
+    image_description_markdown: >-
       1350 x2050mm Woven Tapestry: All The World's a Stage
 
       Private Collection
