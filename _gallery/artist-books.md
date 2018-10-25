@@ -24,6 +24,7 @@ display_image: false
 main_image_path: /assets/images/524da390e8136.jpg
 main_image_caption:
 thumb_crop: true
+display_thumb_title: true
 images:
   - image_path: /uploads/img-0212.jpg
     image_title: Purple and Brown with Green Shoot
@@ -113,14 +114,17 @@ _options:
     mime_type: image/jpeg
 _comments:
   title: Gallery title
+  frontpage: Show this gallery on the homepage
+  homepage_description_markdown: Text used on homepage if shown
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
   display_image: Show the featured image at the top of the gallery
   display_title: Show the title at the top of the page
   images: Add and edit your gallery images here
-  image_description_markdown: Might only be shown in the close up of an image
+  image_description_markdown: Only be shown in the close up of an image
   thumb_crop: Crop thumbnail images to a consistent size
-  frontpage: Show this gallery on the homepage
-  homepage_description_markdown: Text used on homepage if shown
+  display_thumb_title: Show titles under thumbnails
+  archive: Not used yet!
+
 ---
 
