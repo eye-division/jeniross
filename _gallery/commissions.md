@@ -131,6 +131,11 @@ images:
 
       The artworks are situated in the main entrance atrium. RMJM(London) Ltd
       (Architects).
+  - image_path: /uploads/lyceum-tapestryjpeg.jpg
+    image_title: 'Nightly Revels and New Jollity: Jeni Ross'
+    image_description_markdown: >-
+      Woven Tapestry 2200 x 2000mm for Circle Foyer, Lyceum Theatre,
+      Sheffield.<br>Commissioned by JG Graves Trust
 _options:
   image_path:
     width: '1200'
