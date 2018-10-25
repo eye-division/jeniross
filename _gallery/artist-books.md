@@ -4,7 +4,8 @@ description_markdown: >-
   Jeni is fascinated by pure colour and how colours interact with each other.
   She&nbsp; explores this in her paintings and design work on paper as part of
   the creative process. Sometimes these are&nbsp; developed further and
-  translated into a textile, others stand as pieces in their own right. &nbsp;
+  translated into a textile work, others stand as pieces in their own right.
+  &nbsp;
 
 
   Jeni uses cut and torn paper collages as a starting point for many of her
@@ -22,7 +23,7 @@ permalink: /gallery/other-media/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /uploads/img-0212-1.jpg
+main_image_path:
 main_image_caption: Purple and Brown with Green Shoot.  Jeni Ross
 thumb_crop: true
 display_thumb_title: false
