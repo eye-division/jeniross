@@ -35,22 +35,22 @@ images:
     image_title: 'Detail: New College Tapestry'
     image_description_markdown:
   - image_path: /uploads/img-0494-1.jpg
-    image_title: '"Blue" Installation: New Ashgate Gallery'
+    image_title: 'Blue Installation: New Ashgate Gallery'
     image_description_markdown: >-
-      'Colour,' said Johannes Itten, 'affords utility to all, but unveils its
-      deeper mysteries only to its devotees.'
+      Colour (said Johannes Itten) affords utility to all, but unveils its
+      deeper mysteries only to its devotees.
 
 
-      'Just as there are connoisseurs of wine, there are connoisseurs of blue.'
+      Just as there are connoisseurs of wine, there are connoisseurs of blue.
       Colette
   - image_path: /uploads/img-0492-2.jpg
-    image_title: '"Blue" Installation: New Ashgate Gallery'
+    image_title: 'Blue Installation: New Ashgate Gallery'
     image_description_markdown:
   - image_path: /uploads/img-0941.jpg
-    image_title: 'Detail: "Blue" Installation: New Ashgate Gallery'
+    image_title: 'Detail: Blue Installation: New Ashgate Gallery'
     image_description_markdown:
   - image_path: /uploads/img-0948.jpg
-    image_title: 'Detail: "Blue" Installation: New Ashgate Gallery'
+    image_title: 'Detail: Blue Installation: New Ashgate Gallery'
     image_description_markdown:
 _options:
   image_path:
