@@ -1,7 +1,7 @@
 ---
 title: Commissions
 description_markdown: >-
-  Commissions form an important part of Jeni Ross’s work. Each project is
+  Commissions have formed an important part of Jeni Ross’s work. Each project is
   different and affords an exciting challenge to combine colour, movement and
   content and to integrate these sympathetically into a specific location.
 homepage_description_markdown:
@@ -16,10 +16,9 @@ thumb_crop: true
 display_thumb_title: true
 archive: false
 images:
-  - image_path: ""
-    image_title: ""
-    image_description_markdown: >-
-  
+  - image_path:
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: '1200'
@@ -44,6 +43,5 @@ _comments:
   thumb_crop: Crop thumbnail images to a consistent size
   display_thumb_title: Show titles under thumbnails
   archive: Not used yet!
-
 ---
 
