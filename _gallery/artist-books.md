@@ -68,11 +68,17 @@ images:
     image_title: Basking 2
     image_description_markdown: 'Mixed media: Gouache Cut-out on board. 560 x 560mm'
   - image_path: /assets/images/524da390e8136.jpg
-    image_title:
-    image_description_markdown:
+    image_title: Leporello artist's book. Jeni Ross
+    image_description_markdown: >-
+      Leporello or concertina book. Twenty four hour 'clock'&nbsp; books,
+      starting and ending with midnight and centred on a sun motif in the
+      middle.
   - image_path: /assets/images/524da44f6e6c5.jpg
-    image_title:
-    image_description_markdown:
+    image_title: Leporello book. Jeni Ross
+    image_description_markdown: >-
+      Leporello or concertina book. Twenty four hour 'clock'&nbsp; books,
+      starting and ending with midnight and centred on a sun motif in the
+      middle.
   - image_path: /assets/images/524da4d517f81.jpg
     image_title:
     image_description_markdown:
@@ -80,8 +86,11 @@ images:
     image_title:
     image_description_markdown:
   - image_path: /assets/images/4ccb00d7c80ec.jpg
-    image_title:
-    image_description_markdown:
+    image_title: Leporello Artist's book. Jeni Ross
+    image_description_markdown: >-
+      Leporello or concertina book. Twenty four hour 'clock'&nbsp; books,
+      starting and ending with midnight and centred on a sun motif in the
+      middle.
   - image_path: /assets/images/4ccb01181b306.jpg
     image_title:
     image_description_markdown:
@@ -91,15 +100,31 @@ images:
   - image_path: /assets/images/4ccb016ba6cf0.jpg
     image_title:
     image_description_markdown:
+  - image_path: /uploads/reverie-28a.jpg
+    image_title: Reverie No. 28a. Jeni Ross
+    image_description_markdown: 'Tom''s Midnight Garden. Gouache on Paper, mixed media.'
+  - image_path: /uploads/reverie27a.jpg
+    image_title: Reverie No 27. Jeni Ross
+    image_description_markdown: 'Image: 51 x 40 cm<br>Gouache on Paper, mixed media'
+  - image_path: /uploads/54110006-1.jpg
+    image_title: Reverie No.11. Jeni Ross
+    image_description_markdown: '64 x 57 cm<br>Gouache on Paper, mixed media.'
+  - image_path: /uploads/reverie-no.jpg
+    image_title: Reverie No. 23
+    image_description_markdown: 'Gouache on Paper, mixed media.'
   - image_path: /assets/images/4ccafecc01069.jpg
     image_title:
-    image_description_markdown:
+    image_description_markdown: >-
+      Artist's book. Twenty four hour 'clock'&nbsp; book, starting and ending
+      with midnight and centred on a sun motif in the middle.
   - image_path: /assets/images/4ccaff0448e3c.jpg
     image_title:
     image_description_markdown:
   - image_path: /assets/images/4ccaffc0cedc2.jpg
     image_title:
-    image_description_markdown:
+    image_description_markdown: >-
+      Artist's book. Twenty four hour 'clock'&nbsp; book, starting and ending
+      with midnight and centred on a sun motif in the middle.
   - image_path: /assets/images/4ccb0025199ea.jpg
     image_title:
     image_description_markdown:
