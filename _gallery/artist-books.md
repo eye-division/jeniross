@@ -2,9 +2,9 @@
 title: Other Media
 description_markdown: >-
   Jeni is fascinated by pure colour and how colours interact with each other.
-  She&nbsp; explores this in her work on paper as part of the creative process.
-  Sometimes these are&nbsp; developed further and translated into a textile,
-  others stand as pieces in their own right. &nbsp;
+  She&nbsp; explores this in her paintings and design work on paper as part of
+  the creative process. Sometimes these are&nbsp; developed further and
+  translated into a textile, others stand as pieces in their own right. &nbsp;
 
 
   Jeni uses cut and torn paper collages as a starting point for many of her
