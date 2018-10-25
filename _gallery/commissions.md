@@ -99,9 +99,14 @@ images:
 
       One of a pair of tapestries at ground and 1st floor for the Strode
       Theatre, Street.
-  - image_path:
-    image_title:
-    image_description_markdown:
+  - image_path: /uploads/blue-figure-birds-1.jpg
+    image_title: 'Blue Figure with Birds: Jeni Ross'
+    image_description_markdown: >-
+      Tufted Textile Wall Hanging. Commission for Parklands House. Royal Oldham
+      Hospital.
+
+
+      1400 x 1800 mm
 _options:
   image_path:
     width: '1200'
