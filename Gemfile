@@ -11,6 +11,5 @@ gem "jekyll-seo-tag"
 gem 'jekyll-tagging-related_posts'
 
 gem 'jekyll-tagging'
-
 # Oct 2018 - replace jekyll sass gem with sassc
 gem 'sassc'

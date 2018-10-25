@@ -10,7 +10,7 @@ description_markdown: >-
 homepage_description_markdown:
 frontpage: false
 gallery_date: 2006-05-01 00:00:00
-permalink: /gallery/commissions/
+permalink: /gallery/house-of-lords/
 archive: false
 display_title: true
 display_image: false

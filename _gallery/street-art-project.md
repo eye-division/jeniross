@@ -7,7 +7,7 @@ description_markdown: >-
 homepage_description_markdown:
 frontpage: false
 gallery_date:
-permalink:
+permalink: /gallery/look-see/
 archive: false
 main_image_path:
 main_image_caption:
