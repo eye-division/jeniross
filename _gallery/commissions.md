@@ -53,8 +53,11 @@ images:
     image_title: 'Detail: Blue Installation: New Ashgate Gallery'
     image_description_markdown:
   - image_path: /uploads/norwich-castle-mus-tapestry-1.jpg
-    image_title: 'Living History: Tapestry for Norwich Castle Museum'
+    image_title: 'Living History: Jeni Ross'
     image_description_markdown: >-
+      Woven Tapestry for Norwich Castle Museum 2.2 x 2metres.
+
+
       The four attributes held by the figures in the tapestry and on the doors
       represent Architecture, Literature, Conflict and Landscape.
 
@@ -64,8 +67,11 @@ images:
 
       &nbsp;
   - image_path: /uploads/carpet-1.jpg
-    image_title: 'Magic Carpet: Norwich Castle Keep'
-    image_description_markdown:
+    image_title: 'Magic Carpet: Norwich Castle Keep. Jeni Ross'
+    image_description_markdown: >-
+      Designed as a sitting space for children taking part in museum activities
+      this carpet reveals its true colours as&nbsp; one's eyes get used to the
+      subdued lighting necessary in the&nbsp; Castle Keep. &nbsp;
   - image_path: /uploads/ncm-carpet-site-.jpg
     image_title: Norwich Castle Keep
     image_description_markdown:
@@ -74,6 +80,12 @@ images:
     image_description_markdown: >-
       Etched glass figures on doors echo the tapestry in the main entrance.
       Norwich Castle Museum.
+  - image_path: /uploads/h-of-lords-tap.jpg
+    image_title: 'Figure in a Landscape: Jeni Ross'
+    image_description_markdown: 'House of Lords Offices, Government Art Collection.'
+  - image_path:
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: '1200'
