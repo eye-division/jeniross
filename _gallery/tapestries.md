@@ -15,7 +15,7 @@ archive: false
 main_image_path: /assets/images/5978bbcd92847.jpg
 main_image_caption:
 thumb_crop: true
-display_thumb_title: true
+display_thumb_title: false
 images:
   - image_path: /assets/images/55b8cbb47badd.jpg
     image_title: None of This Transpired by Jeni Ross
@@ -47,13 +47,13 @@ images:
   - image_path: /assets/images/4b03d74e0da95.jpg
     image_title: '**Shade Seeking** by Jeni Ross'
     image_description_markdown: >-
-      1200 x 1700 mm Woven tapestry Collection, the artist. Exhibited at "Woven
+      1200 x 1700 mm Woven tapestry, artist's collection . Exhibited at "Woven
       Image - Contemporary Tapestry" Barbican Centre, London and UK Tour.
   - image_path: /assets/images/4ae6db968dd3a.jpg
     image_title: Portrait by Jeni Ross
-    image_description_markdown: 870 x 780mm Woven tapestry
+    image_description_markdown: 870 x 780mm. Woven tapestry
   - image_path: /assets/images/55b8cd93160c6.jpg
-    image_title: Bergamasque by Jeni Ross
+    image_title: '"Bergamasque":  Jeni Ross'
     image_description_markdown: 1350 x2050mm Woven Tapestry **All The World's a Stage** Private Collection
   - image_path: /uploads/maidstone-tap-2.jpg
     image_title: 'Kent Composition: Jeni Ross'
@@ -90,12 +90,12 @@ images:
   - image_path: /assets/images/5061cf1a6144c.jpg
     image_title: '**Jabberwocky** by Jeni Ross'
     image_description_markdown: 890 x 860 mm Woven Tapestry POA
-  - image_path: /assets/images/5061d011cbae4.jpg
-    image_title: '**Ta-Ra-Torremolinos** by Jeni Ross'
-    image_description_markdown: 1170 x 1050 mm Woven Tapestry
   - image_path: /assets/images/556c7137e2e9c.jpg
     image_title: '**By Charms I make the Calm Seas Rough** by Jeni Ross'
     image_description_markdown: 116 x 105 cm 1990 Woven Tapestry
+  - image_path: /assets/images/5061d011cbae4.jpg
+    image_title: '**Ta-Ra-Torremolinos** by Jeni Ross'
+    image_description_markdown: 1170 x 1050 mm Woven Tapestry
   - image_path: /assets/images/556c74ae45fae.jpg
     image_title: Guildford House Tapestry by Jeni Ross
     image_description_markdown: >-
@@ -137,6 +137,5 @@ _comments:
   thumb_crop: Crop thumbnail images to a consistent size
   display_thumb_title: Show titles under thumbnails
   archive: Not used yet!
-
 ---
 
