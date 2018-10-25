@@ -52,6 +52,28 @@ images:
   - image_path: /uploads/img-0948.jpg
     image_title: 'Detail: Blue Installation: New Ashgate Gallery'
     image_description_markdown:
+  - image_path: /uploads/norwich-castle-mus-tapestry-1.jpg
+    image_title: 'Living History: Tapestry for Norwich Castle Museum'
+    image_description_markdown: >-
+      The four attributes held by the figures in the tapestry and on the doors
+      represent Architecture, Literature, Conflict and Landscape.
+
+
+      &nbsp;
+
+
+      &nbsp;
+  - image_path: /uploads/carpet-1.jpg
+    image_title: 'Magic Carpet: Norwich Castle Keep'
+    image_description_markdown:
+  - image_path: /uploads/ncm-carpet-site-.jpg
+    image_title: Norwich Castle Keep
+    image_description_markdown:
+  - image_path: /uploads/ncm-etched-glass.jpg
+    image_title: Etched Glass
+    image_description_markdown: >-
+      Etched glass figures on doors echo the tapestry in the main entrance.
+      Norwich Castle Museum.
 _options:
   image_path:
     width: '1200'
