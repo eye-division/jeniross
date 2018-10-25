@@ -24,7 +24,7 @@ display_image: false
 main_image_path: /assets/images/524da390e8136.jpg
 main_image_caption:
 thumb_crop: true
-display_thumb_title: true
+display_thumb_title: false
 images:
   - image_path: /uploads/img-0212.jpg
     image_title: Purple and Brown with Green Shoot
@@ -125,6 +125,5 @@ _comments:
   thumb_crop: Crop thumbnail images to a consistent size
   display_thumb_title: Show titles under thumbnails
   archive: Not used yet!
-
 ---
 
