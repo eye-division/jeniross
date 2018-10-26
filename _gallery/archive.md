@@ -1,14 +1,17 @@
 ---
 title: Archive
 description_markdown: >-
-  Miscellaneous: Development of the designs and&nbsp; processes involved in the
-  making of the New College Tapestries.
+  Miscellaneous:
+
+
+  Development of the designs and&nbsp; processes involved in the making of the
+  New College Tapestries.
 
 
   Hand gun-tufted rugs and carpets.
 
 
-  Other earlier work.
+  Other work
 homepage_description_markdown:
 frontpage: false
 gallery_date: 2016-05-01 00:00:00
@@ -24,9 +27,6 @@ images:
   - image_path: /uploads/nc-des1-pair-1-2.jpg
     image_title: NC Des1/Pair1
     image_description_markdown: >-
-      &nbsp;
-
-
       Development of the designs and&nbsp; processes involved in the making of
       the New College Tapestries.
 
@@ -97,6 +97,21 @@ images:
   - image_path: /uploads/img-0859.jpg
     image_title: Rug Design
     image_description_markdown: Design for Hand Gun-Tufted Wool Pile Rug.
+  - image_path: /uploads/leightons-window-1.jpg
+    image_title: 'Street Art Project: Look/See: Jeni Ross'
+    image_description_markdown: >-
+      A Street Art Project in Farnham, Surrey opening up shop windows to a
+      series of mini-exhibitions.
+  - image_path: /uploads/sg-rightall.jpg
+    image_title: 'Street Art Project: Look/See: Jeni Ross'
+    image_description_markdown: >-
+      A Street Art Project in Farnham, Surrey opening up shop windows to a
+      series of mini-exhibitions.
+  - image_path: /uploads/jeni-rossarches1.jpg
+    image_title: '2 Textile Faces. The Arches Centre, East Belfast'
+    image_description_markdown: >-
+      Commission for The Arches Centre, East Belfast. 2 of 4 Tufted Textile Wall
+      Pieces depicting Faces. Each approx. 1 metre high.
   - image_path: /uploads/reverie-28a.jpg
     image_title: Reverie Series No.28
     image_description_markdown: |-
@@ -115,6 +130,9 @@ images:
   - image_path: /uploads/reverie27a.jpg
     image_title: 'Reverie Series: No 27'
     image_description_markdown: 'Image size: 51 x 40 cm<br>Gouache on Paper, mixed media.'
+  - image_path:
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: '1200'
