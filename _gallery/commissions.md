@@ -131,11 +131,19 @@ images:
 
       The artworks are situated in the main entrance atrium. RMJM(London) Ltd
       (Architects).
+  - image_path: /uploads/maidstone-onc-centre-tapestry-2.jpg
+    image_title: 'Kent Composition: Jeni Ross'
+    image_description_markdown: >-
+      1220 x 1520 mm<br>Woven Tapestry for Mid-Kent Oncology Centre, Maidstone,
+      Kent.Powell Moya Architects
   - image_path: /uploads/lyceum-tapestryjpeg.jpg
     image_title: 'Nightly Revels and New Jollity: Jeni Ross'
     image_description_markdown: >-
       Woven Tapestry 2200 x 2000mm for Circle Foyer, Lyceum Theatre,
       Sheffield.<br>Commissioned by JG Graves Trust
+  - image_path:
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: '1200'
