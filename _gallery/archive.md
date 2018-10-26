@@ -110,8 +110,9 @@ images:
   - image_path: /uploads/jeni-rossarches1.jpg
     image_title: '2 Textile Faces. The Arches Centre, East Belfast'
     image_description_markdown: >-
-      Commission for The Arches Centre, East Belfast. 2 of 4 Tufted Textile Wall
-      Pieces depicting Faces. Each approx. 1 metre high.
+      Commission for The Integrated Arts Project: Arches Centre, East Belfast. 2
+      of 4 Tufted Textile Wall Pieces depicting Faces. Each approx. 1 metre
+      high.
   - image_path: /uploads/reverie-28a.jpg
     image_title: Reverie Series No.28
     image_description_markdown: |-
@@ -130,9 +131,12 @@ images:
   - image_path: /uploads/reverie27a.jpg
     image_title: 'Reverie Series: No 27'
     image_description_markdown: 'Image size: 51 x 40 cm<br>Gouache on Paper, mixed media.'
-  - image_path:
-    image_title:
-    image_description_markdown:
+  - image_path: /uploads/red-jeni-ross-viv.jpg
+    image_title: 'Textile Face, Bradbury Centre, South Belfast.'
+    image_description_markdown: >-
+      Commission for The Integrated Arts Project: Bradbury Centre, South
+      Belfast. 2 of 4 Tufted Textile Wall Pieces depicting Faces. Each approx. 1
+      metre high.
 _options:
   image_path:
     width: '1200'
