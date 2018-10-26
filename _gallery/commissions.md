@@ -113,6 +113,11 @@ images:
       Tufted Textile wall hanging for St Luke's Hospital, Middlesborough.
 
       2400 x 3200mm.&nbsp;
+  - image_path: /uploads/eafwfinished-rug-1.jpg
+    image_title: 'Earth, Air, Fire and Water: Jeni Ross'
+    image_description_markdown: >-
+      Tufted Textile Wall Piece 1300 x 1600 mm for Integrated Arts Project,
+      South and East Belfast NHS Trust.
   - image_path: /uploads/maff-carpetjpeg.jpg
     image_title: 'Macro-Micro Carpet: Jeni Ross'
     image_description_markdown: >-
@@ -141,9 +146,6 @@ images:
     image_description_markdown: >-
       Woven Tapestry 2200 x 2000mm for Circle Foyer, Lyceum Theatre,
       Sheffield.<br>Commissioned by JG Graves Trust
-  - image_path:
-    image_title:
-    image_description_markdown:
 _options:
   image_path:
     width: '1200'
