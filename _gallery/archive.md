@@ -1,11 +1,14 @@
 ---
 title: Archive
 description_markdown: >-
-  This page shows the development of the designs and the processes involved in
-  the making of the New College Tapestries.
+  Miscellaneous: Development of the designs and&nbsp; processes involved in the
+  making of the New College Tapestries.
 
 
-  Hand gun-tufted rugs and carpets and other earlier work.
+  Hand gun-tufted rugs and carpets.
+
+
+  Other earlier work.
 homepage_description_markdown:
 frontpage: false
 gallery_date: 2016-05-01 00:00:00
@@ -21,8 +24,14 @@ images:
   - image_path: /uploads/nc-des1-pair-1-2.jpg
     image_title: NC Des1/Pair1
     image_description_markdown: >-
-      This page shows the development of the designs and the processes involved
-      in the making of the New College Tapestries.
+      &nbsp;
+
+
+      Development of the designs and&nbsp; processes involved in the making of
+      the New College Tapestries.
+
+
+      &nbsp;
   - image_path: /uploads/nc1-pair-3.jpg
     image_title: NC Design2/Pair1
     image_description_markdown:
@@ -65,15 +74,17 @@ images:
   - image_path: /uploads/carpet.jpg
     image_title: Magic Carpet.
     image_description_markdown: >-
-      Part of a Commission for Norwich Castle Museum. Hand Gun-Tufted Wool
-      Carpet 4.3 x 3.2 Metres. The carpet provides a sitting space for
-      schoolchildren while listening to tales of the history of the Castle Keep.
+      Part of a Commission for Norwich Castle Museum. Large Hand Gun-Tufted Wool
+      Carpet&nbsp; 4.3 x 3.2 Metres. The carpet provides a sitting space for
+      visiting schoolchildren.
+
+
+      &nbsp;
   - image_path: /uploads/img-0999.jpg
     image_title: 'Detail: Magic Carpet'
     image_description_markdown: >-
       Detail of Magic Carpet for Norwich Castle Keep. The carpet provides a
-      sitting space for schoolchildren while listening to tales of the history
-      of the Keep.
+      sitting space for visiting schoolchildren .
   - image_path: /uploads/imgp1643.jpg
     image_title: Rug Design
     image_description_markdown: Design for Hand Gun-Tufted Wool Pile Rug.
@@ -91,16 +102,19 @@ images:
     image_description_markdown: |-
       Tom's Midnight Garden.
 
-      Gouache on Saunders Paper
+      57 x 47 cm<br>Gouache on Paper, mixed media.
   - image_path: /uploads/54110006.jpg
     image_title: 'Reverie Series : No. 11'
-    image_description_markdown: Gouache on Saunders Paper
+    image_description_markdown: |-
+      Image Size: 640 x 570 mm
+
+      Gouache on Saunders Paper
   - image_path: /uploads/reverie-no.jpg
     image_title: 'Reverie Series: No 18'
     image_description_markdown: Gouache on Saunders Paper.
   - image_path: /uploads/reverie27a.jpg
     image_title: 'Reverie Series: No 27'
-    image_description_markdown: Gouache on Saunders Paper
+    image_description_markdown: 'Image size: 51 x 40 cm<br>Gouache on Paper, mixed media.'
 _options:
   image_path:
     width: '1200'
