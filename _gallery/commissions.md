@@ -8,15 +8,15 @@ homepage_description_markdown:
 frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/commissions/
-main_image_path: /uploads/norwich-castle-mus-tapestry.jpg
-main_image_caption: '"Living History" Norwich Castle Museum Tapestry. 2.2 x 2 m.'
+main_image_path: /uploads/img-4490-2.jpg
+main_image_caption: 'The Founder''s Library, New College, Oxford.'
 display_title: true
 display_image: false
 thumb_crop: true
 display_thumb_title: false
 archive: false
 images:
-  - image_path: /uploads/img-4490.jpg
+  - image_path:
     image_title: 4 of the New College Tapestries
     image_description_markdown: >-
       "Dance to the Music of Time": Suite of 6&nbsp; woven Tapestries for The
