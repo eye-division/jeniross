@@ -16,7 +16,7 @@ thumb_crop: true
 display_thumb_title: false
 archive: false
 images:
-  - image_path:
+  - image_path: /uploads/img-4490-3.jpg
     image_title: 4 of the New College Tapestries
     image_description_markdown: >-
       "Dance to the Music of Time": Suite of 6&nbsp; woven Tapestries for The
