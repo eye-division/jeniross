@@ -126,7 +126,7 @@ images:
 
       57 x 47 cm<br>Gouache on Paper, mixed media.
   - image_path: /uploads/54110006.jpg
-    image_title: Reverie Series No. 11
+    image_title: Reverie Series No.11
     image_description_markdown: |-
       Image Size: 640 x 570 mm
 
