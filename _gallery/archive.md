@@ -97,6 +97,9 @@ images:
   - image_path: /uploads/img-0859.jpg
     image_title: Rug Design
     image_description_markdown: Design for Hand Gun-Tufted Wool Pile Rug.
+  - image_path: /uploads/img011.jpg
+    image_title: Red and Blue Rug
+    image_description_markdown: Hand Gun Tufted Rug. 240 x 180 cm. Private Collection.
   - image_path: /uploads/leightons-window-1.jpg
     image_title: 'Street Art Project: Look/See: Jeni Ross'
     image_description_markdown: >-
@@ -137,6 +140,9 @@ images:
   - image_path: /uploads/reverie27a.jpg
     image_title: Reverie Series No 27
     image_description_markdown: 'Image size: 51 x 40 cm<br>Gouache on Paper, mixed media.'
+  - image_path: /uploads/58-11.jpg
+    image_title: Tapestry Weaving.
+    image_description_markdown:
 _options:
   image_path:
     width: '1200'
