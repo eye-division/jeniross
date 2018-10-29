@@ -143,6 +143,12 @@ images:
   - image_path: /uploads/58-11.jpg
     image_title: Tapestry Weaving.
     image_description_markdown:
+  - image_path: /uploads/belfast-face-5-1.jpg
+    image_title: Textile Face Arches Centre.
+    image_description_markdown: >-
+      Commission for The Integrated Arts Project: Arches Centre, East Belfast. 1
+      of 4 Tufted Textile Wall Pieces depicting Faces. Each approx. 1 metre
+      high.
 _options:
   image_path:
     width: '1200'
