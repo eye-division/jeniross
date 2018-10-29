@@ -146,6 +146,11 @@ images:
     image_description_markdown: >-
       Woven Tapestry 2200 x 2000mm for Circle Foyer, Lyceum Theatre,
       Sheffield.<br>Commissioned by JG Graves Trust
+  - image_path: /uploads/54110003.jpg
+    image_title: Guildford House Tapestry
+    image_description_markdown: >-
+      Woven tapestry 1000 x 1000mm commissioned for Guildford House, Guildford
+      as part of a month long residency at the gallery.
 _options:
   image_path:
     width: '1200'
