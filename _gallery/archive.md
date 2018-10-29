@@ -126,16 +126,16 @@ images:
 
       57 x 47 cm<br>Gouache on Paper, mixed media.
   - image_path: /uploads/54110006.jpg
-    image_title: 'Reverie Series : No. 11'
+    image_title: Reverie Series No. 11
     image_description_markdown: |-
       Image Size: 640 x 570 mm
 
       Gouache on Saunders Paper
   - image_path: /uploads/reverie-no.jpg
-    image_title: 'Reverie Series: No 18'
+    image_title: Reverie Series No 18
     image_description_markdown: Gouache on Saunders Paper.
   - image_path: /uploads/reverie27a.jpg
-    image_title: 'Reverie Series: No 27'
+    image_title: Reverie Series No 27
     image_description_markdown: 'Image size: 51 x 40 cm<br>Gouache on Paper, mixed media.'
 _options:
   image_path:
