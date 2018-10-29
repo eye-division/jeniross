@@ -146,9 +146,6 @@ images:
   - image_path: /uploads/reverie27a.jpg
     image_title: Reverie Series No 27
     image_description_markdown: 'Image size: 51 x 40 cm<br>Gouache on Paper, mixed media.'
-  - image_path: /uploads/58-11.jpg
-    image_title: Tapestry Weaving.
-    image_description_markdown:
 _options:
   image_path:
     width: '1200'
