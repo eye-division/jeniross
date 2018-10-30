@@ -21,7 +21,7 @@ display_image: false
 main_image_path: /uploads/nc-des1-pair-1-1.jpg
 main_image_caption: NC Design 1/Pr 1
 thumb_crop: true
-display_thumb_title: true
+display_thumb_title: false
 archive: false
 images:
   - image_path: /uploads/nc-des1-pair-1-2.jpg
