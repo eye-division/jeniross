@@ -155,27 +155,27 @@ images:
   - image_path: /uploads/jh-sageunframed.jpg
     image_title: 'Johnson''s Herbal: Sage'
     image_description_markdown: >-
-      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants
-      for Stepping Hill Hospital, Stockport, Greater Manchester.&nbsp; Each
-      image: 400 x 200 mm.
+      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants.
+      Commissioned for Stepping Hill Hospital, Stockport, Greater
+      Manchester.&nbsp; Each image: 400 x 200 mm.
   - image_path: /uploads/jh-borage.jpg
     image_title: 'Johnson''s Herbal: Borage'
     image_description_markdown: >-
-      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants
-      for Stepping Hill Hospital, Stockport, Greater Manchester.&nbsp; Each
-      image: 400 x 200 mm.
+      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants.
+      Commissioned for Stepping Hill Hospital, Stockport, Greater
+      Manchester.&nbsp; Each image: 400 x 200 mm.
   - image_path: /uploads/jh-pulmonaria-2.jpg
     image_title: 'Johnson''s Herbal: Lungwort'
     image_description_markdown: >-
-      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants
-      for Stepping Hill Hospital, Stockport, Greater Manchester.&nbsp; Each
-      image: 400 x 200 mm.
+      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants.
+      Commissioned for Stepping Hill Hospital, Stockport, Greater
+      Manchester.&nbsp; Each image: 400 x 200 mm.
   - image_path: /uploads/jh-elder.jpg
     image_title: 'Johnson''s Herbal: Elder'
     image_description_markdown: >-
-      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants
-      for Stepping Hill Hospital, Stockport, Greater Manchester.&nbsp; Each
-      image: 400 x 200 mm.
+      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants.
+      Commissioned for Stepping Hill Hospital, Stockport, Greater
+      Manchester.&nbsp; Each image: 400 x 200 mm.
 _options:
   image_path:
     width: '1200'
