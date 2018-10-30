@@ -152,6 +152,30 @@ images:
   - image_path: /uploads/reverie-series-no--15.jpg
     image_title: Reverie no 15
     image_description_markdown: 'Gouache on Saunders Paper. Image: 380 x 520 mm'
+  - image_path: /uploads/jh-sageunframed.jpg
+    image_title: 'Johnson''s Herbal: Sage'
+    image_description_markdown: >-
+      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants
+      for Stepping Hill Hospital, Stockport, Greater Manchester.&nbsp; Each
+      image: 400 x 200 mm.
+  - image_path: /uploads/jh-borage.jpg
+    image_title: 'Johnson''s Herbal: Borage'
+    image_description_markdown: >-
+      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants
+      for Stepping Hill Hospital, Stockport, Greater Manchester.&nbsp; Each
+      image: 400 x 200 mm.
+  - image_path: /uploads/jh-pulmonaria-2.jpg
+    image_title: 'Johnson''s Herbal: Lungwort'
+    image_description_markdown: >-
+      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants
+      for Stepping Hill Hospital, Stockport, Greater Manchester.&nbsp; Each
+      image: 400 x 200 mm.
+  - image_path: /uploads/jh-elder.jpg
+    image_title: 'Johnson''s Herbal: Elder'
+    image_description_markdown: >-
+      Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants
+      for Stepping Hill Hospital, Stockport, Greater Manchester.&nbsp; Each
+      image: 400 x 200 mm.
 _options:
   image_path:
     width: '1200'
