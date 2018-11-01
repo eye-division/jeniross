@@ -1,12 +1,10 @@
 ---
 title: Commissions
 description_markdown: >-
-  Commissions have formed an important part of Jeni Ross’s work. Each project is
-  different and affords an exciting challenge to combine colour, movement and
-  content and to integrate these sympathetically into a specific location.
+  Commissions have formed an important part of Jeni Ross’s work. Each project is different and affords an exciting challenge to combine colour, movement and content and to integrate these sympathetically into a specific location.
 homepage_description_markdown:
-frontpage: false
-gallery_date: 2006-05-01 00:00:00
+frontpage: true
+gallery_date: 2018-04-02 00:00:00
 permalink: /gallery/commissions/
 main_image_path: /uploads/img-4490-2.jpg
 main_image_caption: 'The Founder''s Library, New College, Oxford.'

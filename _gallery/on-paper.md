@@ -19,7 +19,7 @@ frontpage: false
 permalink: /gallery/on-paper/
 display_title: true
 display_image: false
-archive: false
+archive: true
 main_image_path: /assets/images/597b3e0734152.jpg
 main_image_caption:
 thumb_crop: true

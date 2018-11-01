@@ -7,7 +7,7 @@ homepage_description_markdown:
 frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/tapestries-work-in-progress/
-archive: false
+archive: true
 display_title: true
 display_image: false
 main_image_path: /assets/images/4af977e05d686.jpg

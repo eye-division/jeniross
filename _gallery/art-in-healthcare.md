@@ -9,7 +9,7 @@ homepage_description_markdown: >-
 frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/art-in-healthcare/
-archive: false
+archive: true
 display_title: true
 display_image: true
 main_image_path:

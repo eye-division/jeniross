@@ -27,7 +27,7 @@ homepage_description_markdown: >-
 frontpage: false
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/norwich-castle/
-archive: false
+archive: true
 display_title: true
 display_image: false
 main_image_path: "/assets/images/4ae869b72886a.jpg"

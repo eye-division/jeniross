@@ -1,5 +1,5 @@
 ---
-title:
+title: Ashmolean tapestries
 description_markdown: >-
   The New College Tapestries were shown for the first time at the Ashmolean
   Museum in Oxford before being installed in the Founders Library at New College
@@ -10,7 +10,7 @@ homepage_description_markdown: >-
 frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/ashmolean-tapestries/
-archive: false
+archive: true
 display_title: false
 display_image: false
 main_image_path: /assets/images/505a001e3c84d.jpg

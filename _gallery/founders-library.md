@@ -7,7 +7,7 @@ homepage_description_markdown:
 frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/founders-library/
-archive: false
+archive: true
 display_title: false
 display_image: false
 main_image_path: /assets/images/5894a2cf79997.jpg

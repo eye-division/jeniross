@@ -36,6 +36,8 @@ _comments:
 
   {% for gallery in galleries %}
 
+    {% unless gallery.archive %}
+
      <div class="gallery--box">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link">
@@ -47,6 +49,8 @@ _comments:
           </a>
 
      </div>
+
+    {% endunless %}
 
   {% endfor %}
 

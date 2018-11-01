@@ -6,7 +6,7 @@ description_markdown: >-
   positive. These are interpreted using qualities of theatre; colour and
   illumination, the interplay of planes and textures.
 homepage_description_markdown:
-gallery_date:
+gallery_date: 2018-05-01 00:00:00
 frontpage: true
 permalink: /gallery/tapestries/
 display_title: true

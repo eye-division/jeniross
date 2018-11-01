@@ -11,7 +11,7 @@ homepage_description_markdown:
 frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/house-of-lords/
-archive: false
+archive: true
 display_title: true
 display_image: false
 main_image_path: /assets/images/4ae6dcab9fb77.jpg

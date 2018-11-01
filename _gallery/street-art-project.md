@@ -8,7 +8,7 @@ homepage_description_markdown:
 frontpage: false
 gallery_date:
 permalink: /gallery/look-see/
-archive: false
+archive: true
 main_image_path:
 main_image_caption:
 display_title: true

@@ -38,7 +38,7 @@ homepage_description_markdown: '"BLUE" Commission for New Ashgate Gallery.'
 frontpage: false
 gallery_date: 2006-05-01 00:00:00
 permalink: /gallery/blue/
-archive: false
+archive: true
 display_title: true
 display_image: true
 main_image_path: /assets/images/4ae99d6940235.jpg

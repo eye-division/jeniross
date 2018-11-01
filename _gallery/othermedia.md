@@ -18,7 +18,7 @@ description_markdown: >-
   &nbsp;
 homepage_description_markdown:
 frontpage: true
-gallery_date: 2016-05-01 00:00:00
+gallery_date: 2018-04-01 00:00:00
 permalink: /gallery/other-media/
 archive: false
 display_title: true

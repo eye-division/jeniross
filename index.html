@@ -99,7 +99,9 @@ _comments:
     {% endfor %}
 
     <!-- Galleries -->
-    {% for gallery in site.gallery %}
+    {% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
+
+    {% for gallery in galleries %}
 
       {% if gallery.frontpage %}
         <section class="gallery--cover {% if gallery.main_image_path %}has--cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
