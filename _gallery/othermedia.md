@@ -15,7 +15,13 @@ description_markdown: >-
   relief effect.&nbsp;&nbsp;
 
 
-  &nbsp;
+  As part of my initial research for the New College tapestries I experimented
+  with a series of small books. My ideas for the&nbsp; project were related to
+  Johannes Itten’s twelve tone colour system and I have translated these into a
+  series of twenty four hour ‘clock’ books, starting and ending with midnight
+  and centred on a sun motif in the middle.<br>The classic book form has a time
+  based narrative; a concertina book on the other hand can be read all at once
+  offering a more visual experience.
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2018-04-01 00:00:00
