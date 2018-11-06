@@ -5,6 +5,9 @@ description_markdown: >-
   layers, contrasts and cycles; earth and air, night and day, negative and
   positive. These are interpreted using qualities of theatre; colour and
   illumination, the interplay of planes and textures.
+
+
+  &nbsp;
 homepage_description_markdown:
 gallery_date: 2018-05-01 00:00:00
 frontpage: true
@@ -54,9 +57,8 @@ images:
     image_description_markdown: 870 x 780mm. Woven tapestry
   - image_path: /assets/images/55b8cd93160c6.jpg
     image_title: 'Bergamasque:  Jeni Ross'
-    image_description_markdown: >-
+    image_description_markdown: |-
       1350 x2050mm Woven Tapestry: All The World's a Stage
-
       Private Collection
   - image_path: /uploads/maidstone-tap-2.jpg
     image_title: 'Kent Composition: Jeni Ross'
