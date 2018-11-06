@@ -12,7 +12,7 @@ permalink: /gallery/tapestries/
 display_title: true
 display_image: false
 archive: false
-main_image_path: /assets/images/5978bbcd92847.jpg
+main_image_path: /assets/images/55b8cbb47badd.jpg
 main_image_caption:
 thumb_crop: true
 display_thumb_title: false

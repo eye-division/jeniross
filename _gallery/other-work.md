@@ -1,5 +1,5 @@
 ---
-title: Other Media
+title: Other Work
 description_markdown: >-
   Jeni is fascinated by pure colour and how colours interact with each other.
   She&nbsp; explores this in her paintings and design work on paper as part of
@@ -19,7 +19,7 @@ description_markdown: >-
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2018-04-01 00:00:00
-permalink: /gallery/other-media/
+permalink: /gallery/other-work/
 archive: false
 display_title: true
 display_image: false
