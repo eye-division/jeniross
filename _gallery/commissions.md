@@ -151,13 +151,13 @@ images:
       as part of a month long residency at the gallery.
 _options:
   image_path:
-    width: '1200'
-    height: '1200'
+    width: 1200
+    height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    width: '1200'
-    height: '800'
+    width: 1200
+    height: 800
     resize_style: contain
     mime_type: image/jpeg
 _comments:
