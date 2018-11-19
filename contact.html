@@ -1,33 +1,76 @@
 ---
-layout: empty
-permalink:
+layout: page
+title: Contact
+permalink: /contact/
+display_page_title: true
+main_image_path:
+main_image_caption:
+frontpage: false
+homepage_description_markdown:
+frontpagetitle:
+show_form: true
+_options:
+  layout:
+    hidden: true
+  permalink:
+    hidden: true
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+_comments:
+  title: Page title
+  main_image_path: Image used to represent your page
+  show_form: Do you want to show a contact form?
+  frontpage: Show this page on the homepage
+  homepage_description_markdown: Text used on homepage if shown
+  frontpagetitle: Alternative title for home page use
 ---
 
-    <form action="/thanks/" method="post" id="contact-form">
+<div class="editable">
+      <p>If you have any questions, would like more information about work for sale or are considering commissioning a tapestry&nbsp; please do contact Jeni for a conversation with no obligation.</p>
+      <p>Telephone: 01252 401156</p>
+      <p>Jeni Ross is based in Farnham, Surrey. UK.</p>
+      <h4>Send an email</h4>
+      <p>Please email Jeni using: jenirosstaps@icloud.com,&nbsp; jeni.ross@virgin.net or use the form below</p>
+    </div>
 
-      <fieldset>
+{% if page.show_form %}
+    <h4>Send an email</h4>
+    <form action="/thanks/" method="post">
 
-            <input type="hidden" name="_to" value="">
-            <input type="hidden" name="_cc" value="a.ward@eyedivision.com">
-            <input type="hidden" name="_subject" value="Web form">
-            <p>
-            <label for="name">Name:</label>
-            <input type="text" name="name">
-            </p>
-            <p>
-            <label for="_replyto">Email:</label>
-            <input type="text" name="_replyto">
-            </p>
-            <p>
-            <label>Message</label>
-            <textarea name="message"></textarea>
-            </p>
-            {% if site.recaptcha_site_key %}
-            <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
-            {% endif %}
-        <p>
-            <input type="submit" value="Send message">
-            </p>
-      </fieldset>
+    <fieldset>
+      <input type="text" name="_gotcha" style="display:none" />
+      <input type="hidden" name="_to" value="support@eyedivision.com" />
+      <input type="hidden" name="_subject" value="Web form" />
+      <p>
+      <label for="name">Name:</label>
+      <input type="text" name="name" />
+      </p>
+      <p>
+      <label for="_replyto">Email:</label>
+      <input type="email" name="_replyto" />
+      </p>
+      <p>
+      <label>Message</label>
+      <textarea name="message"></textarea>
+      </p>
+      {% if site.recaptcha_site_key and jekyll.environment == 'production' %}
+        <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+      {% endif %}
 
-      </form>
+      <p>
+        <input type="submit" value="Send message" />
+      </p>
+
+    </fieldset>
+
+  </form>
+
+{% endif %}

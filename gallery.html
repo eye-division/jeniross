@@ -1,0 +1,58 @@
+---
+layout: page
+title: "Galleries"
+permalink: /gallery/
+main_image_path:
+main_image_caption:
+frontpage: false
+homepage_description_markdown:
+frontpagetitle:
+_options:
+  layout:
+    hidden: true
+  permalink:
+    hidden: true
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+_comments:
+  title: Gallery title
+  main_image_path: Image used to represent your gallery
+  frontpage: Show this gallery on the homepage
+  homepage_description_markdown: Text used on homepage if shown
+---
+
+<div class="editable">
+      <p>&nbsp;Jeni's&nbsp; work is primarily concerned with colour and movement and her designs involve layers, contrasts and cycles; earth and air, night and day, negative and positive. These are interpreted using qualities of theatre; colour and illumination, the interplay of planes and textures.&nbsp;</p>
+    </div>
+
+
+<section class="gallery--list">
+
+  <!-- order galleries by date -->
+  {% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
+
+  {% for gallery in galleries %}
+
+    {% unless gallery.archive %}
+
+     <div class="gallery--box">
+
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link">
+            <!-- cropped square images -->
+            {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+            <!-- end cropped square -->
+
+            <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+          </a>
+
+     </div>
+
+    {% endunless %}
+
+  {% endfor %}
+
+</section>
+
