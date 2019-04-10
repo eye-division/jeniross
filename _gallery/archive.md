@@ -4,14 +4,14 @@ description_markdown: >-
   Miscellaneous:
 
 
-  Development of the designs and&nbsp; processes involved in the making of the
-  New College Tapestries.
+  Work in Progress: Development of the designs and&nbsp; processes involved in
+  the making of the New College Tapestries.
 
 
   Hand gun-tufted rugs and carpets.
 
 
-  Other work
+  Other work: paintings and cut-outs.
 homepage_description_markdown:
 frontpage: false
 gallery_date: 2016-05-01 00:00:00
@@ -26,7 +26,9 @@ archive: false
 images:
   - image_path: /uploads/nc-des1-pair-1-2.jpg
     image_title: NC Des1/Pair1
-    image_description: Development of the designs and&nbsp; processes involved in the making of the New College Tapestries.
+    image_description: >-
+      Development of the designs and&nbsp; processes involved in the making of
+      the New College Tapestries.
   - image_path: /uploads/nc1-pair-3.jpg
     image_title: NC Design2/Pair1
     image_description:
@@ -68,7 +70,10 @@ images:
     image_description:
   - image_path: /uploads/carpet.jpg
     image_title: Magic Carpet.
-    image_description: Part of a Commission for Norwich Castle Museum. Large Hand Gun-Tufted Wool  Carpet&nbsp; 4.3 x 3.2 Metres. The carpet provides a sitting space for visiting schoolchildren.
+    image_description: >-
+      Part of a Commission for Norwich Castle Museum. Large Hand Gun-Tufted
+      Wool  Carpet&nbsp; 4.3 x 3.2 Metres. The carpet provides a sitting space
+      for visiting schoolchildren.
   - image_path: /uploads/img-0999.jpg
     image_title: 'Detail: Magic Carpet'
     image_description: >-
@@ -91,27 +96,38 @@ images:
     image_description: Hand Gun Tufted Rug. 240 x 180 cm. Private Collection.
   - image_path: /uploads/leightons-window-1.jpg
     image_title: 'Street Art Project: Look/See: Jeni Ross'
-    image_description:  A Street Art Project in Farnham, Surrey opening up shop windows to a  series of mini-exhibitions.
+    image_description: >-
+      A Street Art Project in Farnham, Surrey opening up shop windows to a 
+      series of mini-exhibitions.
   - image_path: /uploads/sg-rightall.jpg
     image_title: 'Street Art Project: Look/See: Jeni Ross'
-    image_description: A Street Art Project in Farnham, Surrey opening up shop windows to a series of mini-exhibitions.
+    image_description: >-
+      A Street Art Project in Farnham, Surrey opening up shop windows to a
+      series of mini-exhibitions.
   - image_path: /uploads/jeni-rossarches1.jpg
     image_title: '2 Textile Faces. The Arches Centre, East Belfast'
-    image_description: 'Commission for The Integrated Arts Project: Arches Centre, East Belfast. 2 of 4 Tufted Textile Wall Pieces depicting Faces. Each approx. 1 metre  high.'
+    image_description: >-
+      Commission for The Integrated Arts Project: Arches Centre, East Belfast. 2
+      of 4 Tufted Textile Wall Pieces depicting Faces. Each approx. 1 metre 
+      high.
   - image_path: /uploads/red-jeni-ross-viv.jpg
     image_title: 'Textile Face, Bradbury Centre, South Belfast.'
-    image_description: 'Commission for The Integrated Arts Project: Bradbury Centre, South  Belfast. 2 of 4 Tufted Textile Wall Pieces depicting Faces. Each approx. 1  metre high.'
+    image_description: >-
+      Commission for The Integrated Arts Project: Bradbury Centre, South 
+      Belfast. 2 of 4 Tufted Textile Wall Pieces depicting Faces. Each approx.
+      1  metre high.
   - image_path: /uploads/belfast-face-5-1.jpg
     image_title: Textile Face Arches Centre.
-    image_description: 'Commission for The Integrated Arts Project: Arches Centre, East Belfast. 1 of 4 Tufted Textile Wall Pieces depicting Faces. Each approx. 1 metre  high.'
+    image_description: >-
+      Commission for The Integrated Arts Project: Arches Centre, East Belfast. 1
+      of 4 Tufted Textile Wall Pieces depicting Faces. Each approx. 1 metre 
+      high.
   - image_path: /uploads/reverie-28a.jpg
     image_title: Reverie Series No.28
-    image_description:  Tom's Midnight Garden.
-      57 x 47 cm<br>Gouache on Paper, mixed media.
+    image_description: 'Tom''s Midnight Garden. 57 x 47 cm<br>Gouache on Paper, mixed media.'
   - image_path: /uploads/54110006.jpg
     image_title: Reverie Series No.11
-    image_description: 'Image Size: 640 x 570 mm
-      Gouache on Saunders Paper'
+    image_description: 'Image Size: 640 x 570 mm Gouache on Saunders Paper'
   - image_path: /uploads/reverie-no.jpg
     image_title: Reverie Series No 18
     image_description: Gouache on Saunders Paper.
@@ -125,7 +141,7 @@ images:
     image_title: Reverie no 15
     image_description: 'Gouache on Saunders Paper. Image: 380 x 520 mm'
   - image_path: /uploads/jh-sageunframed.jpg
-    image_title: "Johnson's Herbal: Sage"
+    image_title: 'Johnson''s Herbal: Sage'
     image_description: >-
       Johnson's Herbal. Series of 4 framed Gouache Cut-outs of healing plants.
       Commissioned for Stepping Hill Hospital, Stockport, Greater
