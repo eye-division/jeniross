@@ -23,17 +23,17 @@ images:
   - image_path: /assets/images/55b8cbb47badd.jpg
     image_title: None of This Transpired by Jeni Ross
     image_description: 560 x560 mm 2014 Woven Tapestry
-  - image_path: /uploads/observers-scattered.jpg
+  - image_path: /uploads/observers-scattered-edited-2.jpg
     image_title: Observers Scattered
     image_description: Woven Tapestry Pair. Each 800 x 400mm
   - image_path: /assets/images/5978bbcd92847.jpg
-    image_title: '<strong>Origin of Species</strong> by Jeni Ross'
+    image_title: <strong>Origin of Species</strong> by Jeni Ross
     image_description: each 800 x 400mm 2016 Woven Tapestry Pair
   - image_path: /assets/images/589b49348c42c.jpg
     image_title: Where Are We From? by Jeni Ross
     image_description: 560 x 560mm 2014 Woven Tapestry
   - image_path: /assets/images/55b8ca4d00e96.jpg
-    image_title: '<strong>Odyssey</strong> Tapestry Pair by Jeni Ross'
+    image_title: <strong>Odyssey</strong> Tapestry Pair by Jeni Ross
     image_description: Each 800 x 400mm 2014 Woven Tapestry
   - image_path: /assets/images/55b8d3ebd73df.jpg
     image_title: Odyssey Detail by Jeni Ross
@@ -48,8 +48,10 @@ images:
     image_title: Blue Figure by Jeni Ross
     image_description: 1080 x 1000mm Woven tapestry. Artist's Collection
   - image_path: /assets/images/4b03d74e0da95.jpg
-    image_title: 'Shade Seeking by Jeni Ross'
-    image_description: 1200 x 1700 mm Woven tapestry, artist's collection . Exhibited at Woven  Image - Contemporary Tapestry Barbican Centre, London and UK Tour.
+    image_title: Shade Seeking by Jeni Ross
+    image_description: >-
+      1200 x 1700 mm Woven tapestry, artist's collection . Exhibited at Woven 
+      Image - Contemporary Tapestry Barbican Centre, London and UK Tour.
   - image_path: /assets/images/4ae6db968dd3a.jpg
     image_title: Portrait by Jeni Ross
     image_description: 870 x 780mm. Woven tapestry
@@ -73,30 +75,31 @@ images:
     image_title: 'Detail: <strong>The Isle is Full of Noises</strong> by Jeni Ross'
     image_description: Woven tapestry Private Collection
   - image_path: /assets/images/4ee0d8a546b79.jpg
-    image_title: '<strong>Sortileges</strong> by Jeni Ross'
+    image_title: <strong>Sortileges</strong> by Jeni Ross
     image_description: 1000 x 1000 mm Woven Tapestry. Artist's Collection
   - image_path: /assets/images/4eca68642c92e.jpg
-    image_title: '<strong>On a Summer Midnight you can hear the Music</strong> by Jeni Ross'
+    image_title: <strong>On a Summer Midnight you can hear the Music</strong> by Jeni Ross
     image_description: 1000 x 1000 mm Woven Tapestry Private Collection
   - image_path: /assets/images/4eca69f235353.jpg
-    image_title: '<strong>Fragments</strong> by Jeni Ross'
+    image_title: <strong>Fragments</strong> by Jeni Ross
     image_description: 550 x 520 mm Woven Tapestry Private Collection
   - image_path: /uploads/nightly-revels.jpg
     image_title: 'Nightly Revels and New Jollity: Jeni Ross'
     image_description: >-
       Woven Tapestry 2.2 x 2 metres. Commission and Award from the JG Graves
-      Charitable Arts Trust (Graves Art  Gallery) for the Lyceum Theatre, Sheffield. 1991
+      Charitable Arts Trust (Graves Art  Gallery) for the Lyceum Theatre,
+      Sheffield. 1991
   - image_path: /assets/images/5061cebd8d58e.jpg
-    image_title: '<strong>Masque</strong> by Jeni Ross'
+    image_title: <strong>Masque</strong> by Jeni Ross
     image_description: 1000 x 1000 mm Woven Tapestry POA
   - image_path: /assets/images/5061cf1a6144c.jpg
-    image_title: '<strong>Jabberwocky</strong> by Jeni Ross'
+    image_title: <strong>Jabberwocky</strong> by Jeni Ross
     image_description: 890 x 860 mm Woven Tapestry POA
   - image_path: /assets/images/556c7137e2e9c.jpg
-    image_title: '<strong>By Charms I make the Calm Seas Rough</strong> by Jeni Ross'
+    image_title: <strong>By Charms I make the Calm Seas Rough</strong> by Jeni Ross
     image_description: 116 x 105 cm 1990 Woven Tapestry
   - image_path: /assets/images/5061d011cbae4.jpg
-    image_title: '<strong>Ta-Ra-Torremolinos</strong> by Jeni Ross'
+    image_title: <strong>Ta-Ra-Torremolinos</strong> by Jeni Ross
     image_description: 1170 x 1050 mm Woven Tapestry
   - image_path: /assets/images/556c74ae45fae.jpg
     image_title: Guildford House Tapestry by Jeni Ross
@@ -104,7 +107,8 @@ images:
       90 x 90 cm 1989 Woven Tapestry. This Tapestry was commissioned by
       Guildford House, Guildford and the Victoria and Albert Museum. The design
       takes its inspiration form elements of the 17th century building itself
-      and the tapestry hangs in one of the fine wood panelled rooms in this well  known High Street landmark.
+      and the tapestry hangs in one of the fine wood panelled rooms in this
+      well  known High Street landmark.
   - image_path: /assets/images/55b8d66fabbce.jpg
     image_title: Tree of Life by Jeni Ross
     image_description: 1986 Woven Tapestry
