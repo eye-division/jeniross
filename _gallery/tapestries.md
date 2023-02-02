@@ -5,10 +5,7 @@ description_markdown: >-
   layers, contrasts and cycles; earth and air, night and day, negative and
   positive. These are interpreted using qualities of theatre; colour and
   illumination, the interplay of planes and textures.
-
-
-  &nbsp;
-homepage_description_markdown:
+homepage_description_markdown: ''
 gallery_date: 2018-05-01 00:00:00
 frontpage: true
 permalink: /gallery/tapestries/
@@ -20,6 +17,16 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: false
 images:
+  - image_path: /uploads/linden-tapestry.jpg
+    image_title: Linden Tapestry
+    image_description: >+
+      Woven Tapestry  H: 80 cm x W: 120 cm.
+
+      Linden Tapestry was commissioned for a London home and woven during
+      lockdown.  Jeni continues the theme of time and her responses to the
+      landscape. 
+
+
   - image_path: /assets/images/55b8cbb47badd.jpg
     image_title: None of This Transpired by Jeni Ross
     image_description: 560 x560 mm 2014 Woven Tapestry
@@ -143,4 +150,3 @@ _comments:
   display_thumb_title: Show titles under thumbnails
   archive: Not used yet!
 ---
-
