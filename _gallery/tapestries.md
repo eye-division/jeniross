@@ -23,7 +23,7 @@ images:
       Woven Tapestry  H: 80 cm x W: 120 cm.
 
       Linden Tapestry was commissioned for a London home and woven during
-      lockdown.  Jeni continues the theme of time and its responses to the
+      lockdown.  Jeni continues the theme of time and her responses to the
       landscape. 
 
 
