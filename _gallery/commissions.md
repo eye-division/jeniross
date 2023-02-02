@@ -1,13 +1,15 @@
 ---
 title: Commissions
 description_markdown: >-
-  Commissions have formed an important part of Jeni Ross’s work. Each project is different and affords an exciting challenge to combine colour, movement and content and to integrate these sympathetically into a specific location.
-homepage_description_markdown:
+  Commissions have formed an important part of Jeni Ross’s work. Each project is
+  different and affords an exciting challenge to combine colour, movement and
+  content and to integrate these sympathetically into a specific location.
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2018-04-02 00:00:00
 permalink: /gallery/commissions/
 main_image_path: /uploads/img-4490-2.jpg
-main_image_caption: 'The Founder''s Library, New College, Oxford.'
+main_image_caption: The Founder's Library, New College, Oxford.
 display_title: true
 display_image: false
 thumb_crop: true
@@ -36,9 +38,8 @@ images:
     image_title: 'Blue Installation: New Ashgate Gallery'
     image_description: >-
       Colour (said Johannes Itten) affords utility to all, but unveils its
-      deeper mysteries only to its devotees.
-      Just as there are connoisseurs of wine, there are connoisseurs of blue.
-      Colette
+      deeper mysteries only to its devotees. Just as there are connoisseurs of
+      wine, there are connoisseurs of blue. Colette
   - image_path: /uploads/img-0492-2.jpg
     image_title: 'Blue Installation: New Ashgate Gallery'
     image_description:
@@ -51,9 +52,9 @@ images:
   - image_path: /uploads/norwich-castle-mus-tapestry-1.jpg
     image_title: 'Living History: Jeni Ross'
     image_description: >-
-      Woven Tapestry for Norwich Castle Museum 2.2 x 2metres.
-      The four attributes held by the figures in the tapestry and on the doors
-      represent Architecture, Literature, Conflict and Landscape.
+      Woven Tapestry for Norwich Castle Museum 2.2 x 2metres. The four
+      attributes held by the figures in the tapestry and on the doors represent
+      Architecture, Literature, Conflict and Landscape.
   - image_path: /uploads/carpet-1.jpg
     image_title: 'Magic Carpet: Norwich Castle Keep. Jeni Ross'
     image_description: >-
@@ -70,7 +71,7 @@ images:
       Norwich Castle Museum.
   - image_path: /uploads/h-of-lords-tap.jpg
     image_title: 'Figure in a Landscape: Jeni Ross'
-    image_description: 'House of Lords Offices, Government Art Collection.'
+    image_description: House of Lords Offices, Government Art Collection.
   - image_path: /uploads/air--earth-art--nature.jpg
     image_title: 'Earth and Air: Strode Theatre'
     image_description: >-
@@ -162,4 +163,3 @@ _comments:
   display_thumb_title: Show titles under thumbnails
   archive: Not used yet!
 ---
-
