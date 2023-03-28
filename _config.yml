@@ -119,7 +119,8 @@ _options:
 # disqus_shortname: alun-ward
 
 # Google analytics
-ga_tracking_id: "UA-16735011-6"
+#ga_tracking_id: "UA-16735011-6"
+ga_tracking_id: "G-MF0SGHWZ65"  # G4 tracking tag
 
 # Google Recaptcha used for contact form
 recaptcha_site_key: "6LdzQ3AUAAAAAP1g0zmsvgpRL0aK3tLFTwZu5ujq"
