@@ -38,18 +38,18 @@ images:
     image_description: >-
       Detail:  Telling Time: Moment and Movement. 2025. Woven Tapestry: H 120 cm
       x W 220 cm. 
-  - image_path: /uploads/img-4490-3.jpg
-    image_title: 4 of the New College Tapestries
-    image_description: >-
-      "Dance to the Music of Time": Suite of 6&nbsp; woven Tapestries for The
-      Founder's Library, New College, Oxford. The tapestries were exhibited at
-      the Ashmolean Museum before their final installation at the Oxford
-      College.
   - image_path: /uploads/2025-03-06-01-01-22.jpg
     image_title: 'Detail: Telling Time: Moment and Movement. 2025.'
     image_description: >-
       Detail: Telling Time: Moment and Movement. 2025. Woven Tapestry: H 120 cm
       x W 220 cm. 
+  - image_path: /uploads/img-4490-3.jpg
+    image_title: ' “A Dance to the Music of Time” ; The Founder''s Library, New College, Oxford.'
+    image_description: >-
+      "Dance to the Music of Time": Suite of 6 woven Tapestries for The
+      Founder's Library, New College, Oxford. The tapestries were exhibited at
+      the Ashmolean Museum before their final installation at the Oxford
+      College.
   - image_path: /uploads/img-4497.jpg
     image_title: 2 of the New College Tapestries
     image_description: >-
