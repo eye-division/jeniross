@@ -17,7 +17,7 @@ thumb_crop: true
 display_thumb_title: false
 archive: false
 images:
-  - image_path: /uploads/telling-time-tapestry.jpg
+  - image_path: /uploads/telling-time-tapestry-1.jpg
     image_title: 'Telling Time: Moment and Movement'
     image_description: >
       Telling Time: Moment and Movement.  2025  Woven Tapestry, Height: 120 cm x
@@ -26,19 +26,19 @@ images:
       The design integrates the outside and inside spaces of the site and
       continues my fascination with visual representations of the passing of
       time. 
-  - image_path: /uploads/img-5078.jpg
+  - image_path: /uploads/img-5078-1.jpg
     image_title: 'Telling Time: Moment and Movement. '
     image_description: >-
       Telling Time: Moment and Movement. 2025. Woven Tapestry: H 120 cm x W 220
       cm. The design integrates the outside and inside spaces of the site and
       continues my fascination with visual representations of the passing of
       time. Private Collection.
-  - image_path: /uploads/2025-03-06-01-01-22-2.jpg
+  - image_path: /uploads/2025-03-06-01-01-22-2-1.jpg
     image_title: 'Detail: Telling Time: Moment and Movement. '
     image_description: >-
       Detail:  Telling Time: Moment and Movement. 2025. Woven Tapestry: H 120 cm
       x W 220 cm. 
-  - image_path: /uploads/2025-03-06-01-01-22.jpg
+  - image_path: /uploads/detail-right.jpg
     image_title: 'Detail: Telling Time: Moment and Movement. 2025.'
     image_description: >-
       Detail: Telling Time: Moment and Movement. 2025. Woven Tapestry: H 120 cm
