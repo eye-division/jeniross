@@ -1,9 +1,10 @@
 ---
 title: Commissions
 description_markdown: >-
-  Commissions have formed an important part of Jeni Ross’s work. Each project is
-  different and affords an exciting challenge to combine colour, movement and
-  content and to integrate these sympathetically into a specific location.
+  Commissions have formed an important part of Jeni Ross’s work. Every project
+  is different and affords an exciting challenge, working together to combine
+  colour, movement and content and to integrate these sympathetically into a
+  specific location.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2018-04-02 00:00:00
@@ -16,6 +17,27 @@ thumb_crop: true
 display_thumb_title: false
 archive: false
 images:
+  - image_path: /uploads/telling-time-tapestry.jpg
+    image_title: 'Telling Time: Moment and Movement'
+    image_description: >
+      Telling Time: Moment and Movement.  2025  Woven Tapestry, Height: 120 cm x
+      Width: 220 cm.. Private Collection.
+
+      The design integrates the outside and inside spaces of the site and
+      continues my fascination with visual representations of the passing of
+      time. 
+  - image_path: /uploads/img-5078.jpg
+    image_title: 'Telling Time: Moment and Movement. '
+    image_description: >-
+      Telling Time: Moment and Movement. 2025. Woven Tapestry: H 120 cm x W 220
+      cm. The design integrates the outside and inside spaces of the site and
+      continues my fascination with visual representations of the passing of
+      time. Private Collection.
+  - image_path: /uploads/2025-03-06-01-01-22-2.jpg
+    image_title: 'Detail: Telling Time: Moment and Movement. '
+    image_description: >-
+      Detail:  Telling Time: Moment and Movement. 2025. Woven Tapestry: H 120 cm
+      x W 220 cm. 
   - image_path: /uploads/img-4490-3.jpg
     image_title: 4 of the New College Tapestries
     image_description: >-
@@ -23,6 +45,11 @@ images:
       Founder's Library, New College, Oxford. The tapestries were exhibited at
       the Ashmolean Museum before their final installation at the Oxford
       College.
+  - image_path: /uploads/2025-03-06-01-01-22.jpg
+    image_title: 'Detail: Telling Time: Moment and Movement. 2025.'
+    image_description: >-
+      Detail: Telling Time: Moment and Movement. 2025. Woven Tapestry: H 120 cm
+      x W 220 cm. 
   - image_path: /uploads/img-4497.jpg
     image_title: 2 of the New College Tapestries
     image_description: >-
