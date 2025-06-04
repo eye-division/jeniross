@@ -8,7 +8,7 @@ main_image_caption:
 frontpage: false
 homepage_description_markdown: ''
 frontpagetitle:
-show_form: true
+show_form: false
 _options:
   layout:
     hidden: true
@@ -37,40 +37,6 @@ _comments:
       <p>Telephone: 01252 401156</p>
       <p>Jeni Ross is based in Farnham, Surrey. UK.</p>
       <h4>Send an email</h4>
-      <p>Please email Jeni using: jenirosstaps@icloud.com&nbsp; or use the form below</p>
+      <p>Please email Jeni at: jenirosstaps@icloud.com</p>
     </div>
 
-{% if page.show_form %}
-    <h4>Send an email</h4>
-    <form action="/thanks/" method="post">
-
-    <fieldset>
-      <input type="text" name="_gotcha" style="display:none" />
-      <input type="hidden" name="_to" value="jenirosstaps@icloud.com" />
-      <input type="hidden" name="_cc" value="support@eyedivision.com" />
-      <input type="hidden" name="_subject" value="Web form" />
-      <p>
-      <label for="name">Name:</label>
-      <input type="text" name="name" />
-      </p>
-      <p>
-      <label for="_replyto">Email:</label>
-      <input type="email" name="_replyto" />
-      </p>
-      <p>
-      <label>Message</label>
-      <textarea name="message"></textarea>
-      </p>
-      {% if site.recaptcha_site_key and jekyll.environment == 'production' %}
-        <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
-      {% endif %}
-
-      <p>
-        <input type="submit" value="Send message" />
-      </p>
-
-    </fieldset>
-
-  </form>
-
-{% endif %}
