@@ -115,12 +115,9 @@ _options:
 # PayPal merchant ID
 # paypal_id:
 
-# Disqus comments
-# disqus_shortname: alun-ward
-
 # Google analytics
 #ga_tracking_id: "UA-16735011-6"
-ga_tracking_id: "G-MF0SGHWZ65"  # G4 tracking tag
+ga_tracking_id:   # G4 tracking tag
 
 # Google Recaptcha used for contact form
 recaptcha_site_key: "6LdzQ3AUAAAAAP1g0zmsvgpRL0aK3tLFTwZu5ujq"
@@ -154,9 +151,9 @@ social:
 
   - name: Instagram
     icon: icon-instagram
-    username: '@iamnotapixel'
-    url: https://instagram.com/iamnotapixel
-    desc: Follow iamnotapixel on Instagram
+    username:
+    url:
+    desc:
     share: false
 
   - name: Twitter
