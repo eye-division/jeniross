@@ -106,9 +106,9 @@ _select_data:
       share: true
     - name: Instagram
       icon: icon-instagram
-      username: '@iamnotapixel'
-      url: https://instagram.com/iamnotapixel
-      desc: Follow iamnotapixel on Instagram
+      username: 
+      url: 
+      desc: 
       share: false
     - name: Twitter
       icon: icon-twitter_sign
